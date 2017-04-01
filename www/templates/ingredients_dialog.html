@@ -1,0 +1,31 @@
+  <ion-view class="ingredients_modal_view">
+    <ion-content class="ingredients_dialog_window">
+      <div class="ingredients_dialog_content">
+        <div class="selected_ingredient_display">
+          <img class="insert_ingredient_none"/>
+          <img ng-src="{{item.src}}"/>
+          <img class="insert_ingredient" src="img/AMA_UI/bower_vertical.png"/>
+        </div>
+
+        <div class="zutat_image_font">
+          <img src="img/AMA_UI/zutat.png"/>
+        </div>
+
+        <div class="dialog_content">
+          <div class="dialog_content_text">
+            <p>Möchten Sie diese Zutat</p>
+            <p>wirklich entfernen?</p>
+          </div>
+
+          <div class="ingredients_dialog_button">
+            <button class="button button-balanced" ng-click="deleteItem()">
+              ZUTAT ENTFERNEN
+            </button>
+            <button class="button button-balanced" ng-click="closeModal(2)">
+              ZUTAT BEHALTEN
+            </button>
+          </div>
+        </div>
+      </div>
+    </ion-content>
+  </ion-modal-view>

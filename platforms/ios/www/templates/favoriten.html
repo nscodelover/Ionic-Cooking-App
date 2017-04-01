@@ -1,0 +1,78 @@
+<ion-view view-title="Favoriten">
+
+  <div class="main_background"></div>
+  <ion-content>
+
+    <div class="recipe_item_list_container">
+      <div class="phone_screen">
+        <div class="row" ng-repeat="favorite in favorites" ng-if="$index % 2 === 0">
+          <div class="col col-50 col-offset-2" ng-if="$index < favorites.length" ng-click="selectRecipe(favorites[$index])">
+            <div class="recipe_list_image" ng-style="{'background-image': 'url(' + favorites[$index].src + ')'}"></div>
+            <div class="category_name_div">
+              <img ng-src="{{favorites[$index].categoryImage}}">
+              <div class="category_title_div">
+                <p>{{favorites[$index].title}}</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col col-50 col-offset" ng-if="$index < favorites.length" ng-click="selectRecipe(favorites[$index + 1])">
+            <div class="recipe_list_image" ng-style="{'background-image': 'url(' + favorites[$index+1].src + ')'}"></div>
+            <div class="category_name_div">
+              <img ng-src="{{favorites[$index+1].categoryImage}}">
+              <div class="category_title_div">
+                <p>{{favorites[$index+1].title}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="desktop_screen">
+        <div class="row" ng-repeat="recipe in favorites" ng-if="$index % 3 === 0">
+          <div class="col col-30 col-offset-3.3" ng-if="$index < favorites.length" ng-click="selectRecipe(favorites[$index])">
+            <div class="recipe_list_image" ng-style="{'background-image': 'url(' + favorites[$index].src + ')'}"></div>
+            <div class="category_name_div">
+              <img ng-src="{{favorites[$index].categoryImage}}">
+              <div class="category_title_div">
+                <p>{{favorites[$index].title}}</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col col-30 col-offset" ng-if="$index < favorites.length" ng-click="selectRecipe(favorites[$index + 1])">
+            <div class="recipe_list_image" ng-style="{'background-image': 'url(' + favorites[$index+1].src + ')'}"></div>
+            <div class="category_name_div">
+              <img ng-src="{{favorites[$index+1].categoryImage}}">
+              <div class="category_title_div">
+                <p>{{favorites[$index+1].title}}</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col col-30 col-offset" ng-if="$index < favorites.length" ng-click="selectRecipe(favorites[$index + 2])">
+            <div class="recipe_list_image" ng-style="{'background-image': 'url(' + favorites[$index+2].src + ')'}"></div>
+            <div class="category_name_div">
+              <img ng-src="{{favorites[$index+2].categoryImage}}">
+              <div class="category_title_div">
+                <p>{{favorites[$index+2].title}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div ng-show="noFavorite" class="none_favorite" >
+      <div class="favorite_image_div">
+        <img src="img/AMA_UI/ic_favoriten.png">
+      </div>
+
+      <div class="favoriten_title">
+        <p>Sie haben noch keine</p>
+        <p>Favoriten gespeichert!</p>
+      </div>
+    </div>
+
+  </ion-content>
+</ion-view>

@@ -1,0 +1,49 @@
+<ion-side-menus enable-menu-with-back-views="false">
+  <ion-side-menu-content>
+    <ion-nav-bar class="bar-stable" >
+      <ion-nav-back-button></ion-nav-back-button>
+      <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+      </ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent"></ion-nav-view>
+  </ion-side-menu-content>
+
+  <ion-side-menu class="sidemenu_bar" side="left" >
+    <div class="main_background"></div>
+    <ion-content>
+      <div class="menu_content">
+        <div class="sidemenu_logo">
+          <img src="img/AMA_UI/app_logo.png"/>
+        </div>
+
+        <div class="sidemenu">
+          <a class="sidemenu_list" menu-close href="#/app/suche">
+            <img class="sidemenu_list_icon" src="img/ic_suche.png">
+            <div class="sidemenu_list_title">Suche</div>
+          </a>
+
+          <a class="sidemenu_list" menu-close href="#/app/kochtipps">
+            <img class="sidemenu_list_icon" src="img/ic_tipp.png">
+            <div class="sidemenu_list_title">Kochtipps</div>
+          </a>
+
+          <a class="sidemenu_list" menu-close href="#/app/favoriten">
+            <img class="sidemenu_list_icon" src="img/ic_favoriten.png">
+            <div class="sidemenu_list_title">Favoriten</div>
+          </a>
+
+          <a class="sidemenu_list" menu-close href="#/app/impressum">
+            <img class="sidemenu_list_icon" src="img/ic_impressum.png">
+            <div class="sidemenu_list_title">Impressum</div>
+          </a>
+        </div>
+
+        <div class="sidemenu_footer">
+          <img class="sidemenu_footer_img" src="img/ic_eu@2x.png"/>
+        </div>
+      </div>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>

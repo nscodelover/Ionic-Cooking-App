@@ -1,0 +1,154 @@
+<ion-view view-title="">
+
+  <ion-content>
+
+    <div class="bar-header item-input-inset">
+      <div class="item-input-wrapper">
+        <i class="icon ion-ios-search placeholder-icon"></i>
+        <input class="searchbar" type="search" placeholder="Zutaten eingeben" ng-model="param.search" ng-change="searchIngredients()">
+        <button ng-if="param.search.length" class="button button-icon ion-android-close input-button" ng-click="clearSearch()"></button>
+      </div>
+    </div>
+
+    <div class="selected_item_div">
+      <label class="selected_item_container_title">Ausgewählte Zutaten</label>
+      <div class="selected_item_container">
+        <div class="phone_screen">
+          <div class="row" ng-repeat="sel in selects" ng-if="$index % 5 === 0" >
+            <div class="col col-20 col-offset-5" ng-if="$index < selects.length" ng-click="deselectItem(selects[$index])">
+              <img ng-src="{{selects[$index].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index].name}}</label>
+            </div>
+            <div class="col col-20" ng-if="$index + 1 < selects.length" ng-click="deselectItem(selects[$index + 1])">
+              <img ng-src="{{selects[$index + 1].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index + 1].name}}</label>
+            </div>
+            <div class="col col-20" ng-if="$index + 2 < selects.length" ng-click="deselectItem(selects[$index + 2])">
+              <img ng-src="{{selects[$index + 2].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index + 2].name}}</label>
+            </div>
+            <div class="col col-20" ng-if="$index + 3 < selects.length" ng-click="deselectItem(selects[$index + 3])">
+              <img ng-src="{{selects[$index + 3].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index + 3].name}}</label>
+            </div>
+            <div class="col col-20" ng-if="$index + 4 < selects.length" ng-click="deselectItem(selects[$index + 4])">
+              <img ng-src="{{selects[$index + 4].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index +4].name}}</label>
+            </div>
+          </div>
+        </div>
+
+        <div class="desktop_screen">
+          <div class="row" ng-repeat="sel in selects" ng-if="$index % 8 === 0" >
+            <div class="col col-10 col-offset-10" ng-if="$index < selects.length" ng-click="deselectItem(selects[$index])">
+              <img ng-src="{{selects[$index].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index].name}}</label>
+            </div>
+            <div class="col col-10" ng-if="$index + 1 < selects.length" ng-click="deselectItem(selects[$index + 1])">
+              <img ng-src="{{selects[$index + 1].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index + 1].name}}</label>
+            </div>
+            <div class="col col-10" ng-if="$index + 2 < selects.length" ng-click="deselectItem(selects[$index + 2])">
+              <img ng-src="{{selects[$index + 2].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index + 2].name}}</label>
+            </div>
+            <div class="col col-10" ng-if="$index + 3 < selects.length" ng-click="deselectItem(selects[$index + 3])">
+              <img ng-src="{{selects[$index + 3].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index + 3].name}}</label>
+            </div>
+            <div class="col col-10" ng-if="$index + 4 < selects.length" ng-click="deselectItem(selects[$index + 4])">
+              <img ng-src="{{selects[$index + 4].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index +4].name}}</label>
+            </div>
+            <div class="col col-10" ng-if="$index + 5 < selects.length" ng-click="deselectItem(selects[$index + 5])">
+              <img ng-src="{{selects[$index + 5].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index +5].name}}</label>
+            </div>
+            <div class="col col-10" ng-if="$index + 6 < selects.length" ng-click="deselectItem(selects[$index + 6])">
+              <img ng-src="{{selects[$index + 6].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index +6].name}}</label>
+            </div>
+            <div class="col col-10" ng-if="$index + 7 < selects.length" ng-click="deselectItem(selects[$index + 7])">
+              <img ng-src="{{selects[$index + 7].src}}" width="100%" />
+              <label class="ingredients_name">{{selects[$index +7].name}}</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="recipe_button">
+      <button class="button button-balanced" ng-click="onSuchergebnis()" ng-disabled="isDisabled">
+        REZEPTE ANZEIGEN
+      </button>
+    </div>
+
+    <div class="divider">
+      <img src="img/AMA_UI/f_divider.png" />
+    </div>
+
+    <div class="item_list_container" ng-init="loadAllIngredients()">
+      <div class="phone_screen">
+        <div class="row" ng-repeat="ingredient in all_ingredients" ng-if="$index % 5 === 0" >
+          <div class="col col-20 col-offset-5" ng-if="$index < all_ingredients.length" ng-click="selectItem(all_ingredients[$index])">
+            <img ng-src="{{all_ingredients[$index].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index].name}}</label>
+          </div>
+          <div class="col col-20" ng-if="$index + 1 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 1])">
+            <img ng-src="{{all_ingredients[$index + 1].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 1].name}}</label>
+          </div>
+          <div class="col col-20" ng-if="$index + 2 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 2])">
+            <img ng-src="{{all_ingredients[$index + 2].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 2].name}}</label>
+          </div>
+          <div class="col col-20" ng-if="$index + 3 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 3])">
+            <img ng-src="{{all_ingredients[$index + 3].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 3].name}}</label>
+          </div>
+          <div class="col col-20" ng-if="$index + 4 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 4])">
+            <img ng-src="{{all_ingredients[$index + 4].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 4].name}}</label>
+          </div>
+        </div>
+      </div>
+
+      <div class="desktop_screen">
+        <div class="row" ng-repeat="ingredient in all_ingredients" ng-if="$index % 8 === 0" >
+          <div class="col col-10 col-offset-10" ng-if="$index < all_ingredients.length" ng-click="selectItem(all_ingredients[$index])">
+            <img ng-src="{{all_ingredients[$index].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index].name}}</label>
+          </div>
+          <div class="col col-10" ng-if="$index + 1 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 1])">
+            <img ng-src="{{all_ingredients[$index + 1].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 1].name}}</label>
+          </div>
+          <div class="col col-10" ng-if="$index + 2 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 2])">
+            <img ng-src="{{all_ingredients[$index + 2].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 2].name}}</label>
+          </div>
+          <div class="col col-10" ng-if="$index + 3 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 3])">
+            <img ng-src="{{all_ingredients[$index + 3].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 3].name}}</label>
+          </div>
+          <div class="col col-10" ng-if="$index + 4 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 4])">
+            <img ng-src="{{all_ingredients[$index + 4].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 4].name}}</label>
+          </div>
+          <div class="col col-10" ng-if="$index + 5 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 5])">
+            <img ng-src="{{all_ingredients[$index + 5].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 5].name}}</label>
+          </div>
+          <div class="col col-10" ng-if="$index + 6 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 6])">
+            <img ng-src="{{all_ingredients[$index + 6].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 6].name}}</label>
+          </div>
+          <div class="col col-10" ng-if="$index + 7 < all_ingredients.length" ng-click="selectItem(all_ingredients[$index + 7])">
+            <img ng-src="{{all_ingredients[$index + 7].src}}" width="100%" />
+            <label class="ingredients_name">{{all_ingredients[$index + 7].name}}</label>
+          </div>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

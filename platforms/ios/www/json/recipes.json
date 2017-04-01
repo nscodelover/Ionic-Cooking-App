@@ -1,0 +1,3834 @@
+[{
+  "category": "Hauptspeise",
+  "season": [4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 0,
+    "value": 15,
+    "fraction": false,
+    "name": "Ziegenfrischkäse",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 1,
+    "value": 75,
+    "fraction": false,
+    "name": "Paradeiser",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 2,
+    "value": 2,
+    "fraction": true,
+    "name": "Olivenöl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 3,
+    "value": 3,
+    "fraction": true,
+    "name": "gehackten Thymian",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 4,
+    "value": 2,
+    "fraction": true,
+    "name": "Knoblauchzehen gepresst",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 5,
+    "value": 1,
+    "fraction": true,
+    "name": "Blätterteig",
+    "unit": "Pkg."
+  }, {
+    "ingredient_id": 6,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 7,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 1,
+  "waitTime": 25,
+  "title": "Paradeis-Ziegenkäse Tarte",
+  "difficultyLevel": 1,
+  "prepTime": 15,
+  "imageName": "ama_sa_d_h_pic14.jpeg",
+  "servings": 2,
+  "directions": ["Den Ziegenkäse mit den Gewürzen verrühren.", "Blätterteig ausbreiten und mit dem Ziegenkäse bestreichen.", "Die Paradeiser in gleichmäßige Scheiben schneiden und den Teig damit belegen.", "Die Paradeiser mit Salz und Pfeffer würzen und mit dem Olivenöl beträufeln.", "Im vorgeheizten Backrohr bei 190° ca. 25 Minuten backen."]
+}, {
+  "category": "Vorspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 8,
+    "value": 75,
+    "fraction": false,
+    "name": "Gemüsefond",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 9,
+    "value": 250,
+    "fraction": false,
+    "name": "rohe geschälte Erdäpfel (mehlige)",
+    "unit": "g"
+  }, {
+    "ingredient_id": 10,
+    "value": 12,
+    "fraction": false,
+    "name": "Creme fraîche",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 11,
+    "value": 1,
+    "fraction": true,
+    "name": "kleine geschälte Zwiebel",
+    "unit": ""
+  }, {
+    "ingredient_id": 12,
+    "value": 0,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 13,
+    "value": 0,
+    "fraction": false,
+    "name": "Kümmel gemahlen",
+    "unit": ""
+  }, {
+    "ingredient_id": 14,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 15,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 2,
+  "title": "Erdäpfelcremesuppe",
+  "difficultyLevel": 1,
+  "prepTime": 30,
+  "imageName": "ama_sa_d_v_pic6.jpeg",
+  "servings": 8,
+  "directions": ["Erdäpfel und Zwiebel klein schneiden.", "In einem Topf die Zwiebel mit Butter anschwitzen. Mit dem Fond aufgießen. Erdäpfel dazugeben und leicht wallend weich kochen.", "Creme fraîche dazugeben, würzen und fein pürieren.", "Mit dem gleichen Rezept nur mit violetten Erdäpfeln wird eine zweite Suppe hergestellt.", "Beim Anrichten werden nun beide Suppen langsam in einen Teller (oder in ein Café Latte -Glas) eingegossen. Im Sommer kann die Suppe auch kalt serviert werden."]
+}, {
+  "category": "Vorspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 16,
+    "value": 70,
+    "fraction": false,
+    "name": "Kürbis",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 17,
+    "value": 10,
+    "fraction": false,
+    "name": "Karotten",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 18,
+    "value": 1,
+    "fraction": true,
+    "name": "rote Chilischote",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 19,
+    "value": 12,
+    "fraction": false,
+    "name": "roter Paprika",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 20,
+    "value": 1,
+    "fraction": false,
+    "name": "Ingwer",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 21,
+    "value": 100,
+    "fraction": false,
+    "name": "Schlagobers",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 22,
+    "value": 2,
+    "fraction": true,
+    "name": "Erdnussöl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 23,
+    "value": 1,
+    "fraction": true,
+    "name": "Gemüsesuppe",
+    "unit": "l"
+  }, {
+    "ingredient_id": 24,
+    "value": 1,
+    "fraction": true,
+    "name": "Zwiebel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 25,
+    "value": 2,
+    "fraction": true,
+    "name": "Knoblauch",
+    "unit": "Zehen"
+  }, {
+    "ingredient_id": 26,
+    "value": 0,
+    "fraction": false,
+    "name": "Curry",
+    "unit": ""
+  }, {
+    "ingredient_id": 27,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 28,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 3,
+  "waitTime": 15,
+  "title": "Exotische Kürbissuppe",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_v_pic7.jpeg",
+  "servings": 4,
+  "directions": ["Kürbis halbieren und Kerne entfernen, dann schälen und in Würfel schneiden.", "Ingwer, Zwiebel, Knoblauch und Karotten klein schneiden. Chili in Ringe schneiden, Kerne entfernen.", "Alle zerkleinerten Zutaten in heißem Erdnussöl anschwitzen, Gemüsesuppe zugießen, würzen.", "Nach dem die Suppe aufgekocht ist, ca. 15 Minuten köcheln lassen bis das Kürbisfleisch weich ist. Pürieren und durch Sieb passieren.", "Mit Paprika und Schlagobers garnieren."]
+}, {
+  "category": "Vorspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 29,
+    "value": 40,
+    "fraction": false,
+    "name": "Knollensellerie",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 30,
+    "value": 25,
+    "fraction": false,
+    "name": "Pressschinken",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 31,
+    "value": 12,
+    "fraction": false,
+    "name": "Topfen",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 32,
+    "value": 1,
+    "fraction": true,
+    "name": "Senf",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 33,
+    "value": 1,
+    "fraction": true,
+    "name": "weiche Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 34,
+    "value": 1,
+    "fraction": true,
+    "name": "Petersilie",
+    "unit": "El"
+  }, {
+    "ingredient_id": 35,
+    "value": 1,
+    "fraction": true,
+    "name": "Kren gerieben",
+    "unit": "El"
+  }, {
+    "ingredient_id": 36,
+    "value": 1,
+    "fraction": true,
+    "name": "Zitrone",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 37,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 38,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 4,
+  "title": "Sellerie Türmchen",
+  "difficultyLevel": 3,
+  "prepTime": 30,
+  "imageName": "ama_sa_d_v_pic9.jpeg",
+  "servings": 2,
+  "directions": ["Sellerie schälen, mit Brotschneidemaschine in 0,5 cm dicke Scheiben schneiden.", "Scheiben ausstechen, mit Zitronensaft einreiben, in Salzwasser bissfest kochen, abschrecken und gut abtropfen.", "Schinken klein schneiden und pürieren.", "Mit Topfen, Salz, Pfeffer, Senf, Butter, Petersilie und Kren verrühren.", "Je zwei Selleriescheiben mit Mus zusammensetzen.", "Türmchen mit Mus, Petersilie und Zitronenscheibe garnieren."]
+}, {
+  "category": "Hauptspeise",
+  "season": [4, 5, 6, 7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 39,
+    "value": 2,
+    "fraction": true,
+    "name": "Petersilwurzeln geschält",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 40,
+    "value": 1,
+    "fraction": true,
+    "name": "Petersil fein gehackt",
+    "unit": "Bund"
+  }, {
+    "ingredient_id": 41,
+    "value": 4,
+    "fraction": true,
+    "name": "Paprika",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 42,
+    "value": 15,
+    "fraction": false,
+    "name": "Cous Cous",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 43,
+    "value": 1,
+    "fraction": true,
+    "name": "Zwiebel (klein)",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 44,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 45,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 46,
+    "value": 0,
+    "fraction": false,
+    "name": "Olivenöl",
+    "unit": ""
+  }],
+  "id": 5,
+  "waitTime": 35,
+  "title": "Gefüllter Paprika mit Petersil Cous Cous",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_h_pic23.jpeg",
+  "servings": 4,
+  "directions": ["Petersilwurzeln klein schneiden, in Salzwasser weich kochen.", "Abseihen und 450 ml vom Kochwasser beiseite stellen.", "Cous Cous in eine Schüssel geben und mit dem heißen Fond übergießen. 5 Minuten ziehen lassen.", "Zwiebel fein schneiden und in Olivenöl kurz anschwitzen.", "Cous Cous kräftig abschmecken, Zwiebel, gehackter Petersil und Wurzeln dazugeben, die Paprika mit dem Cous Cous füllen.", "In ein Auflauf-Geschirr stellen, mit Olivenöl bestreichen und bei 180° ca. 35 Minuten zugedeckt braten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [5, 6, 7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 47,
+    "value": 0,
+    "fraction": false,
+    "name": "Mehl",
+    "unit": ""
+  }, {
+    "ingredient_id": 48,
+    "value": 0,
+    "fraction": false,
+    "name": "Germ",
+    "unit": ""
+  }, {
+    "ingredient_id": 49,
+    "value": 0,
+    "fraction": false,
+    "name": "Butter",
+    "unit": ""
+  }, {
+    "ingredient_id": 50,
+    "value": 0,
+    "fraction": false,
+    "name": "Wasser",
+    "unit": ""
+  }, {
+    "ingredient_id": 51,
+    "value": 30,
+    "fraction": true,
+    "name": "Brokkoli",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 52,
+    "value": 40,
+    "fraction": false,
+    "name": "Lauch",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 53,
+    "value": 1,
+    "fraction": true,
+    "name": "roter Paprika",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 54,
+    "value": 1,
+    "fraction": true,
+    "name": "Paradeiser",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 55,
+    "value": 0,
+    "fraction": false,
+    "name": "Joghurt",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 56,
+    "value": 2,
+    "fraction": true,
+    "name": "Eier",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 57,
+    "value": 3,
+    "fraction": false,
+    "name": "geriebener Emmentaler",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 58,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 59,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 60,
+    "value": 0,
+    "fraction": false,
+    "name": "Thymian",
+    "unit": ""
+  }, {
+    "ingredient_id": 61,
+    "value": 0,
+    "fraction": false,
+    "name": "Muskatnuss",
+    "unit": ""
+  }, {
+    "ingredient_id": 62,
+    "value": 0,
+    "fraction": false,
+    "name": "Knoblauch",
+    "unit": ""
+  }],
+  "id": 6,
+  "waitTime": 110,
+  "title": "Brokkoli-Lauch-Quiche",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_h_pic25.jpeg",
+  "servings": 2,
+  "directions": ["Mehl, Germ, Salz, Butter und 125 ml warmes Wasser zu Teig ver arbeiten, 1 Stunde rasten lassen.", "Brokkoli blanchieren, abschrecken.", "Lauch, Paprika und gehäuteten Paradeiser in Streifen schneiden. Lauch in Butter anschwitzen.", "Joghurt mit Eiern und Gewürzen verquirlen.", "Springform mit Butter ausstreichen, dünn mit Teig auslegen.", "Lauch, Brokkoli in die Form geben, mit Joghurt-Mischung übergießen", "Mit Gemüsestreifen belegen, mit Käse bestreuen. 30 Minuten im vorgeheizten Rohr backen."]
+}, {
+  "category": "Nachspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 63,
+    "value": 8,
+    "fraction": true,
+    "name": "Semmeln",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 64,
+    "value": 250,
+    "fraction": false,
+    "name": "Milch",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 65,
+    "value": 3,
+    "fraction": true,
+    "name": "ganze Eier",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 66,
+    "value": 3,
+    "fraction": true,
+    "name": "Eiklar",
+    "unit": ""
+  }, {
+    "ingredient_id": 67,
+    "value": 20,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 68,
+    "value": 1,
+    "fraction": true,
+    "name": "saure Äpfel",
+    "unit": "kg"
+  }, {
+    "ingredient_id": 69,
+    "value": 15,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 70,
+    "value": 6,
+    "fraction": false,
+    "name": "Rosinen",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 71,
+    "value": 0,
+    "fraction": false,
+    "name": "Zimt",
+    "unit": ""
+  }],
+  "id": 7,
+  "waitTime": 60,
+  "title": "Scheiterhaufen mit Apfel",
+  "difficultyLevel": 1,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic13.jpeg",
+  "servings": 4,
+  "directions": ["Semmeln dünn schneiden. 3 Eier, Milch und 4 dag Zucker versprudeln. Semmeln damit befeuchten und stehen lassen.", "Eingefettete Kasserolle mit 3 Lagen Semmeln und 2 Lagen fein geschnittenen Apfelscheiben, die mit Zimt, Zucker, Rosinen und zerlassener Butter gemischt werden, füllen", "Schinken klein schneiden und pürieren.", "Zusammenpressen und, mit Pergamentpapier bedeckt, eine Stunde backen.", "3 Eiklar und 12 dag Zucker zu Schnee schlagen und über die Mehlspeise streichen.", "Noch ein paar Minuten ins heiße Rohr stellen, bis die Schneespitzen gebräunt sind."]
+}, {
+  "category": "Hauptspeise",
+  "season": [5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 72,
+    "value": 4,
+    "fraction": true,
+    "name": "Eier",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 73,
+    "value": 12,
+    "fraction": false,
+    "name": "Mehl",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 74,
+    "value": 1,
+    "fraction": true,
+    "name": "Milch",
+    "unit": "l"
+  }, {
+    "ingredient_id": 75,
+    "value": 1,
+    "fraction": true,
+    "name": "Blattspinat",
+    "unit": "kg"
+  }, {
+    "ingredient_id": 76,
+    "value": 30,
+    "fraction": false,
+    "name": "Paradeiser",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 77,
+    "value": 1,
+    "fraction": true,
+    "name": "Knoblauch",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 78,
+    "value": 1,
+    "fraction": true,
+    "name": "Zwiebel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 79,
+    "value": 4,
+    "fraction": true,
+    "name": "Emmentaler gerieben",
+    "unit": "El"
+  }, {
+    "ingredient_id": 80,
+    "value": 0,
+    "fraction": false,
+    "name": "Frischkäse",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 81,
+    "value": 0,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 82,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 83,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 8,
+  "title": "Palatschinken Tricolore",
+  "difficultyLevel": 1,
+  "prepTime": 30,
+  "imageName": "ama_sa_d_h_pic22.jpeg",
+  "servings": 2,
+  "directions": ["Milch mit Eiern und Salz versprudeln, Mehl unterrühren.", "Spinat zerkleinern, in Butter dünsten, Knoblauch zugeben, würzen. Zwiebel in Butter anschwitzen, geschälte und zerkleinerte Paradeiser dazu, kurz dünsten.", "Frischkäse cremig aufrühren. Palatschinken backen.", "Eine Palatschinke mit Spinat, eine andere mit Frischkäse bestreichen, eine dritte mit Paradeisern belegen.", "Palatschinken aufeinander legen, eng zusammenrollen.", "Gerollte Palatschinken nebeneinander in feuerfester Form mit Käse bestreut kurz überbacken."]
+}, {
+  "category": "Vorspeise",
+  "season": [4, 5, 6, 7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 84,
+    "value": 2,
+    "fraction": true,
+    "name": "Salatgurken",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 85,
+    "value": 2,
+    "fraction": true,
+    "name": "roter Paprika",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 86,
+    "value": 200,
+    "fraction": false,
+    "name": "Olivenöl",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 87,
+    "value": 1,
+    "fraction": true,
+    "name": "Apfelessig",
+    "unit": "El"
+  }, {
+    "ingredient_id": 88,
+    "value": 0,
+    "fraction": false,
+    "name": "fein geschnittene Paprikawürfel",
+    "unit": ""
+  }, {
+    "ingredient_id": 89,
+    "value": 0,
+    "fraction": true,
+    "name": "Chilischote entkernt (in Streifen geschnitten)",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 90,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 91,
+    "value": 0,
+    "fraction": false,
+    "name": "Chilipulver",
+    "unit": ""
+  }],
+  "id": 9,
+  "title": "Pikanter Gurkensalat mit Chili",
+  "difficultyLevel": 1,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_v_pic8.jpeg",
+  "servings": 4,
+  "directions": ["Salatgurken schälen und der Länge nach bis zu den Kernen in Streifen schneiden. Kerne entfernen. Gurkenstreifen leicht salzen und 10 Minuten stehen lassen.", "Rote Paprika entkernen und entsaften (sollte 150 ml ergeben).", "Paprikasaft mit Salz und Chilipulver kräftig würzen.", "Essig einrühren und mit dem Olivenöl zu einem Dressing aufmixen.", "Gurkenstreifen ausdrücken und mit dem Paprikadressing vermischen.", "Paprikawürfel und Chili dazugeben."]
+}, {
+  "category": "Vorspeise",
+  "season": [7, 8, 9],
+  "ingredients": [{
+    "ingredient_id": 92,
+    "value": 15,
+    "fraction": false,
+    "name": "gemischte Beeren",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 93,
+    "value": 30,
+    "fraction": false,
+    "name": "gemischte Blattsalate (Lollo Bionda, Eichblatt, Endivie etc.)",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 94,
+    "value": 20,
+    "fraction": false,
+    "name": "Mozzarella",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 95,
+    "value": 1,
+    "fraction": true,
+    "name": "süßer Senf",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 96,
+    "value": 1,
+    "fraction": true,
+    "name": "Balsamico Bianco",
+    "unit": "El"
+  }, {
+    "ingredient_id": 97,
+    "value": 1,
+    "fraction": true,
+    "name": "Granatapfelsirup",
+    "unit": "El"
+  }, {
+    "ingredient_id": 98,
+    "value": 3,
+    "fraction": true,
+    "name": "Walnussöl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 99,
+    "value": 1,
+    "fraction": true,
+    "name": "Knoblauchzehe",
+    "unit": "Stück"
+  }],
+  "id": 10,
+  "title": "Salat mit Mozzarella und Beeren",
+  "difficultyLevel": 1,
+  "prepTime": 15,
+  "imageName": "ama_sa_d_v_pic10.jpeg",
+  "servings": 4,
+  "directions": ["Mozzarella zunächst in 0,5 cm dicke Scheiben und danach in Stifte schneiden.", "Beeren waschen und gut abtropfen lassen. ", "Anschließend mit den gemischten Blattsalaten auf 4 Tellern anrichten.", "Dressingzutaten vermischen und erst unmittelbar vor dem Servieren über den Salat träufeln."]
+}, {
+  "category": "Vorspeise",
+  "season": [5, 6, 7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 100,
+    "value": 1,
+    "fraction": true,
+    "name": "Karfiol",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 101,
+    "value": 4,
+    "fraction": true,
+    "name": "Paradeiser",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 102,
+    "value": 2,
+    "fraction": true,
+    "name": "Knoblauchzehen",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 103,
+    "value": 1,
+    "fraction": true,
+    "name": "Basilikum",
+    "unit": "Bund "
+  }, {
+    "ingredient_id": 104,
+    "value": 2,
+    "fraction": true,
+    "name": "Kapern",
+    "unit": "El"
+  }, {
+    "ingredient_id": 105,
+    "value": 0,
+    "fraction": false,
+    "name": "Rotweinessig",
+    "unit": ""
+  }, {
+    "ingredient_id": 106,
+    "value": 0,
+    "fraction": false,
+    "name": "Olivenöl",
+    "unit": ""
+  }, {
+    "ingredient_id": 107,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 108,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 11,
+  "title": "Karfiol-Salat mit Kapern",
+  "difficultyLevel": 1,
+  "prepTime": 15,
+  "imageName": "ama_sa_d_h_pic24.jpeg",
+  "servings": 2,
+  "directions": ["Karfiol waschen und in einzelne Röschen zerteilen. In reichlich Salz wasser 5 – 7 Minuten bissfest kochen.", "Mit kaltem Wasser abschrecken.", "Knoblauch schälen und ganz fein schneiden.", "Paradeiser waschen, Stiel ansatz entfernen und vierteln.", "Essig mit Öl, Salz und Pfeffer ver rühren, mit den anderen Zutaten mischen.", "Salat erst kurz vor dem Anrichten mit Kapern bestreuen."]
+}, {
+  "category": "Nachspeise",
+  "season": [5, 6, 7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 0,
+    "value": 12,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 1,
+    "value": 3,
+    "fraction": true,
+    "name": "Eidotter",
+    "unit": ""
+  }, {
+    "ingredient_id": 2,
+    "value": 3,
+    "fraction": true,
+    "name": "Eiweiß",
+    "unit": ""
+  }, {
+    "ingredient_id": 3,
+    "value": 12,
+    "fraction": false,
+    "name": "Staubzucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 4,
+    "value": 10,
+    "fraction": false,
+    "name": "geriebene Mandeln",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 5,
+    "value": 12,
+    "fraction": false,
+    "name": "Kristallzucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 6,
+    "value": 25,
+    "fraction": false,
+    "name": "Mehl",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 7,
+    "value": 25,
+    "fraction": false,
+    "name": "Zucchini",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 8,
+    "value": 0,
+    "fraction": true,
+    "name": "Backpulver",
+    "unit": "El"
+  }, {
+    "ingredient_id": 9,
+    "value": 0,
+    "fraction": true,
+    "name": "Rum",
+    "unit": "El"
+  }],
+  "id": 12,
+  "waitTime": 40,
+  "title": "Zucchini Torte",
+  "difficultyLevel": 1,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic9.jpeg",
+  "servings": 12,
+  "directions": ["Butter mit Staubzucker und Eidotter schaumig rühren.", "Zucchini fein reiben und stark auspressen.", "Zucchini und Rum unter den Butterabtrieb rühren.", "Eiweiß mit Kristallzucker zu Schnee schlagen. Schnee unterheben.", "Mehl mit Backpulver vermischen und mit den Mandeln unter die Masse heben.", "In Tortenform füllen und im Backrohr bei 180° ca. 40 Minuten backen."]
+}, {
+  "category": "Nachspeise",
+  "season": [6, 7, 8],
+  "ingredients": [{
+    "ingredient_id": 10,
+    "value": 50,
+    "fraction": false,
+    "name": "gemischte Ribiseln",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 11,
+    "value": 40,
+    "fraction": false,
+    "name": "Joghurt",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 12,
+    "value": 4,
+    "fraction": true,
+    "name": "Puderzucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 13,
+    "value": 1,
+    "fraction": true,
+    "name": "Zitronensaft",
+    "unit": "El"
+  }, {
+    "ingredient_id": 14,
+    "value": 2,
+    "fraction": true,
+    "name": "Himbeergeist",
+    "unit": "cl"
+  }, {
+    "ingredient_id": 15,
+    "value": 5,
+    "fraction": true,
+    "name": "Gelatine",
+    "unit": "Blatt"
+  }],
+  "id": 13,
+  "waitTime": 300,
+  "title": "Ribisel-Joghurt-Terrine",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic14.jpeg",
+  "servings": 12,
+  "directions": ["Gelatine in kaltem Wasser einweichen, gut ausdrücken, mit etwas Flüssigkeit erwärmen und zerlaufen lassen.", "Beeren in eine Schüssel geben und mit Puderzucker bestreuen", "Zitronensaft und Himbeergeist dazugeben.", "Terrinen form kalt ausspülen und mit Klarsichtfolie ausschlagen.", "Joghurt glatt rühren, Gelatine unterheben, über die Beeren gießen, gut vermengen und in die vorbereitete Terrine abfüllen. Mit der Folie abdecken.", "4 bis 5 Stunden kalt stellen. Mit Zitronenmelisse und frischen Beeren garnieren."]
+}, {
+  "category": "Nachspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 16,
+    "value": 10,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 17,
+    "value": 10,
+    "fraction": false,
+    "name": "Staubzucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 18,
+    "value": 0,
+    "fraction": true,
+    "name": "Erdäpfel am Vortag gekocht, geschält und gepresst",
+    "unit": "kg"
+  }, {
+    "ingredient_id": 19,
+    "value": 4,
+    "fraction": false,
+    "name": "Brösel",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 20,
+    "value": 6,
+    "fraction": false,
+    "name": "Mandeln gerieben",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 21,
+    "value": 5,
+    "fraction": true,
+    "name": "Eidotter",
+    "unit": ""
+  }, {
+    "ingredient_id": 22,
+    "value": 5,
+    "fraction": true,
+    "name": "Eiweiß",
+    "unit": ""
+  }, {
+    "ingredient_id": 23,
+    "value": 2,
+    "fraction": true,
+    "name": "Vanillezucker",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 24,
+    "value": 0,
+    "fraction": false,
+    "name": "Gries zum Ausstreuen der Form",
+    "unit": ""
+  }],
+  "id": 14,
+  "waitTime": 35,
+  "title": "Süßer Erdäpfelpudding",
+  "difficultyLevel": 1,
+  "prepTime": 15,
+  "imageName": "ama_sa_d_n_pic15.jpeg",
+  "servings": 2,
+  "directions": ["Butter mit Staubzucker schaumig rühren, nach und nach Dotter, Erdäpfel, Mandeln und Brösel einrühren.", "Eiweiß mit Vanillezucker zu einem nicht zu festen Schnee schlagen. Unter die Erdäpfelmasse heben.", "Passende Form mit Butter ausstreichen und mit Gries ausstreuen.", "Masse einfüllen und im Wasserbad im Backrohr 30 bis 35 Minuten bei 150 °C garen."]
+}, {
+  "category": "Cocktail",
+  "season": [6, 7, 8],
+  "ingredients": [{
+    "ingredient_id": 25,
+    "value": 0,
+    "fraction": true,
+    "name": "Sesam",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 26,
+    "value": 10,
+    "fraction": false,
+    "name": "Heidelbeeren",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 27,
+    "value": 15,
+    "fraction": false,
+    "name": "Molke",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 28,
+    "value": 1,
+    "fraction": true,
+    "name": "Birnendicksaft",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 29,
+    "value": 0,
+    "fraction": false,
+    "name": "Zitronensaft",
+    "unit": ""
+  }],
+  "id": 15,
+  "title": "Schaumige Heidelbeer-Molke",
+  "difficultyLevel": 1,
+  "prepTime": 10,
+  "imageName": "ama_sa_d_c_pic2.jpeg",
+  "servings": 2,
+  "directions": ["Sesam in Pfanne ohne Fett rösten bis er goldbraun ist.", "Heidelbeeren mit\rBirnendicksaft und Molke schaumig aufmixen.", "Schaum mit Zitronensaft würzen, in Gläser füllen und mit Sesam bestreut servieren."]
+}, {
+  "category": "Cocktail",
+  "season": [5, 6, 7, 8, 9],
+  "ingredients": [{
+    "ingredient_id": 30,
+    "value": 4,
+    "fraction": false,
+    "name": "Birnensaft",
+    "unit": "cl"
+  }, {
+    "ingredient_id": 31,
+    "value": 4,
+    "fraction": false,
+    "name": "Pfirsichsaft",
+    "unit": "cl"
+  }, {
+    "ingredient_id": 32,
+    "value": 4,
+    "fraction": false,
+    "name": "Apfelsaft",
+    "unit": "cl"
+  }, {
+    "ingredient_id": 33,
+    "value": 4,
+    "fraction": false,
+    "name": "Marillensaft",
+    "unit": "cl"
+  }, {
+    "ingredient_id": 34,
+    "value": 1,
+    "fraction": false,
+    "name": "Apfelscheibe",
+    "unit": "Scheibe"
+  }, {
+    "ingredient_id": 35,
+    "value": 0,
+    "fraction": true,
+    "name": "Eiswürfel",
+    "unit": ""
+  }],
+  "id": 16,
+  "title": "Refresh Inferno",
+  "difficultyLevel": 1,
+  "prepTime": 5,
+  "imageName": "ama_sa_d_c_pic3.jpeg",
+  "servings": 1,
+  "directions": ["Birnen-, Pfirsich-, Apfel- und Marillensaft in ein Long-Drink-Glas geben und umrühren. Eiswürfel zugeben.", "Garniert mit Apfelscheibe servieren."]
+}, {
+  "category": "Cocktail",
+  "season": [8, 9],
+  "ingredients": [{
+    "ingredient_id": 36,
+    "value": 2,
+    "fraction": false,
+    "name": "Zitronenmelissen oder Grünen Tee",
+    "unit": "Beutel"
+  }, {
+    "ingredient_id": 37,
+    "value": 300,
+    "fraction": false,
+    "name": "Wasser",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 38,
+    "value": 26,
+    "fraction": false,
+    "name": "Birnen",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 39,
+    "value": 10,
+    "fraction": true,
+    "name": "Salatgurken",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 40,
+    "value": 1,
+    "fraction": true,
+    "name": "Zitrone",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 41,
+    "value": 300,
+    "fraction": false,
+    "name": "Birnensaft",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 42,
+    "value": 0,
+    "fraction": false,
+    "name": "frische Zitronenmelisse",
+    "unit": ""
+  }, {
+    "ingredient_id": 43,
+    "value": 120,
+    "fraction": false,
+    "name": "Mineralwasser",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 44,
+    "value": 0,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": ""
+  }, {
+    "ingredient_id": 45,
+    "value": 0,
+    "fraction": false,
+    "name": "Eiswürfel",
+    "unit": ""
+  }],
+  "id": 17,
+  "waitTime": 120,
+  "title": "Birnenbowle mit Zitronenmelisse",
+  "difficultyLevel": 1,
+  "prepTime": 10,
+  "imageName": "ama_sa_d_c_pic4.jpeg",
+  "servings": 2,
+  "directions": ["Zitronenmelissen-Tee mit kochendem Wasser überbrühen, Zucker zufügen und 10 Minuten ziehen lassen.", "Fruchtfleisch aus Birne und Gurke mit Kugelausstecher ausstechen.", "Zitronenscheiben mit den Fruchtkugeln in Gläser füllen.", "Fast abgekühlten Tee darüber gießen, abdecken, 2 Stunden ziehen lassen.", "Birnensaft und Zitronenmelisse-Blättchen zugeben.", "Vor dem Servieren mit kaltem Mineralwasser und Eiswürfel aufschäumen."]
+}, {
+  "category": "Nachspeise",
+  "season": [5, 6, 7],
+  "ingredients": [{
+    "ingredient_id": 46,
+    "value": 300,
+    "fraction": false,
+    "name": "frische Erdbeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 47,
+    "value": 150,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": "g"
+  }, {
+    "ingredient_id": 48,
+    "value": 4,
+    "fraction": true,
+    "name": "Eigelb",
+    "unit": ""
+  }, {
+    "ingredient_id": 49,
+    "value": 200,
+    "fraction": true,
+    "name": "Milch",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 50,
+    "value": 200,
+    "fraction": false,
+    "name": "Schlagobers",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 51,
+    "value": 1,
+    "fraction": true,
+    "name": "Vanillezucker",
+    "unit": "El"
+  }],
+  "id": 18,
+  "waitTime": 60,
+  "title": "Erdbeereis",
+  "difficultyLevel": 1,
+  "prepTime": 25,
+  "imageName": "ama_sa_d_n_pic6.jpeg",
+  "servings": 4,
+  "directions": ["Beeren schneiden, mit Vanillezucker bestreuen, ziehen lassen.", "Die Dotter mit Zucker in einer Metallschüssel aufschlagen.", "Milch und Obers zum Kochen bringen, unter Schlagen heiß zu den Dottern geben.", "Auf dem Wasserbad aufschlagen, bis die Creme dick wird.", "In kaltem Wasser weiter schlagen, bis die Schüssel abgekühlt ist. Kaltstellen.", "Beeren pürieren, unter die Creme ziehen.", "Im Tiefkühler gefrieren lassen."]
+}, {
+  "category": "Nachspeise",
+  "season": [5, 6, 7],
+  "ingredients": [{
+    "ingredient_id": 52,
+    "value": 8,
+    "fraction": true,
+    "name": "Eier",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 53,
+    "value": 125,
+    "fraction": false,
+    "name": "Sauerrahm",
+    "unit": "g"
+  }, {
+    "ingredient_id": 54,
+    "value": 500,
+    "fraction": false,
+    "name": "Topfen",
+    "unit": "g"
+  }, {
+    "ingredient_id": 55,
+    "value": 0,
+    "fraction": false,
+    "name": "Zitronenschale gerieben",
+    "unit": ""
+  }, {
+    "ingredient_id": 56,
+    "value": 0,
+    "fraction": false,
+    "name": "Rum",
+    "unit": ""
+  }, {
+    "ingredient_id": 57,
+    "value": 1,
+    "fraction": true,
+    "name": "Vanillezucker",
+    "unit": "Packung"
+  }, {
+    "ingredient_id": 58,
+    "value": 180,
+    "fraction": false,
+    "name": "Mehl",
+    "unit": "g"
+  }, {
+    "ingredient_id": 59,
+    "value": 200,
+    "fraction": false,
+    "name": "Erdbeeren geschnitten",
+    "unit": "g"
+  }, {
+    "ingredient_id": 60,
+    "value": 1,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 61,
+    "value": 3,
+    "fraction": true,
+    "name": "Staubzucker",
+    "unit": "El"
+  }],
+  "id": 19,
+  "title": "Topfen-Erdbeerschmarren",
+  "difficultyLevel": 1,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_n_pic5.jpeg",
+  "servings": 2,
+  "directions": ["Beeren und Butter zur Seite stellen. Die restlichen Zutaten miteinander verrühren und ca. ¼ Stunde ziehen lassen.", "Danach die Butter in einer Pfanne erhitzen und die Masse einfüllen.", "Kurz anbacken, dann mit den Beeren bestreuen und goldgelb backen.", "Anschließend in Stücke reißen und mit Staubzucker bestreuen.", "Den Erdbeerschmarren karamellisieren lassen und anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [6, 7, 8, 9],
+  "ingredients": [{
+    "ingredient_id": 62,
+    "value": 600,
+    "fraction": false,
+    "name": "gemischte Blattsalate",
+    "unit": "g"
+  }, {
+    "ingredient_id": 63,
+    "value": 400,
+    "fraction": false,
+    "name": "Rinderfilet zugeputzt",
+    "unit": "g"
+  }, {
+    "ingredient_id": 64,
+    "value": 1,
+    "fraction": true,
+    "name": "Zucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 65,
+    "value": 4,
+    "fraction": true,
+    "name": "roter Portwein",
+    "unit": "El"
+  }, {
+    "ingredient_id": 66,
+    "value": 200,
+    "fraction": false,
+    "name": "Himbeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 67,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 68,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 69,
+    "value": 0,
+    "fraction": false,
+    "name": "Aceto balsamico",
+    "unit": ""
+  }, {
+    "ingredient_id": 70,
+    "value": 0,
+    "fraction": false,
+    "name": "Olivenöl",
+    "unit": ""
+  }, {
+    "ingredient_id": 71,
+    "value": 0,
+    "fraction": false,
+    "name": "Öl zum Braten",
+    "unit": ""
+  }],
+  "id": 20,
+  "title": "Blattsalat mit Himbeervinaigrette und Rinderfilet",
+  "difficultyLevel": 3,
+  "prepTime": 40,
+  "imageName": "ama_sa_d_h_pic9.jpeg",
+  "servings": 2,
+  "directions": ["Zucker in einem Topf karamellisieren und mit Portwein ablöschen.", "Himbeeren dazugeben, aufkochen lassen und mixen.", "Durch ein Sieb streichen, mit Salz, Pfeffer, Balsamico und Olivenöl abschmecken.", "Dünne Scheiben Rinderfilet schneiden und leicht plattieren, mit Salz und Pfeffer würzen, in einer Pfanne rasch auf beiden Seiten rosa anbraten.", "Blattsalate mit Himbeervinaigrette marinieren und mit den Filets anrichten."]
+}, {
+  "category": "Nachspeise",
+  "season": [7, 8, 9, 10],
+  "ingredients": [{
+    "ingredient_id": 72,
+    "value": 200,
+    "fraction": false,
+    "name": "Weizenvollkornmehl",
+    "unit": "g"
+  }, {
+    "ingredient_id": 73,
+    "value": 10,
+    "fraction": false,
+    "name": "frische Germ",
+    "unit": "g"
+  }, {
+    "ingredient_id": 74,
+    "value": 125,
+    "fraction": false,
+    "name": "lauwarme Milch",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 75,
+    "value": 20,
+    "fraction": false,
+    "name": "flüssige Butter",
+    "unit": "g"
+  }, {
+    "ingredient_id": 76,
+    "value": 1,
+    "fraction": true,
+    "name": "Ei",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 77,
+    "value": 15,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": "g"
+  }, {
+    "ingredient_id": 78,
+    "value": 0,
+    "fraction": false,
+    "name": "Butter oder Öl zum Backen",
+    "unit": ""
+  }, {
+    "ingredient_id": 79,
+    "value": 500,
+    "fraction": false,
+    "name": "Topfen 10%",
+    "unit": "g"
+  }, {
+    "ingredient_id": 80,
+    "value": 0,
+    "fraction": false,
+    "name": "Mark einer Vanilleschote",
+    "unit": ""
+  }, {
+    "ingredient_id": 81,
+    "value": 50,
+    "fraction": false,
+    "name": "Staubzucker",
+    "unit": "g"
+  }, {
+    "ingredient_id": 82,
+    "value": 25,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": "g"
+  }, {
+    "ingredient_id": 83,
+    "value": 250,
+    "fraction": false,
+    "name": "Brombeeren",
+    "unit": "g"
+  }],
+  "id": 21,
+  "waitTime": 50,
+  "title": "Nockerl mit Brombeer-Topfenfülle",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic4.jpeg",
+  "servings": 6,
+  "directions": ["Mehl mit Germ und Milch verrühren. „Dampfl“ an einem warmen Ort 15 Minuten gehen lassen.", "Mit Ei, Zucker, Butter zu einem Teig verkneten.", "Wieder 30 Minuten zugedeckt gehen lassen.", "Aus dem Teig 12 kleine Nockerl in einer Pfanne backen.", "Für die Füllung Topfen, Vanillemark und Staubzucker verrühren, auf 6 Nockerl streichen, Beeren zuckern und auf der Fülle verteilen.", "Mit je einem Nockerl bedecken."]
+}, {
+  "category": "Nachspeise",
+  "season": [7, 8, 9, 10],
+  "ingredients": [{
+    "ingredient_id": 84,
+    "value": 100,
+    "fraction": false,
+    "name": "Brombeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 85,
+    "value": 4,
+    "fraction": true,
+    "name": "Blattgelatine",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 86,
+    "value": 200,
+    "fraction": false,
+    "name": "Schlagobers",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 87,
+    "value": 100,
+    "fraction": false,
+    "name": "Sauerrahm",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 88,
+    "value": 70,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": "g"
+  }, {
+    "ingredient_id": 89,
+    "value": 0,
+    "fraction": true,
+    "name": "Zitrone (Saft und Schale)",
+    "unit": "Stück"
+  }],
+  "id": 22,
+  "waitTime": 20,
+  "title": "Brombeer-Zitronen-Creme",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic3.jpeg",
+  "servings": 2,
+  "directions": ["Sauerrahm mit Zucker und geriebener Zitronenschale verrühren", "Die Beeren pürieren und durch ein feines Sieb passieren.", "Zitronensaft erwärmen und die eingeweichte Blattgelatine darin auflösen.", "Schlagobers nicht zu steif schlagen.", "Gelatine und Sauerrahm verrühren, Obers und Beerenmark vorsichtig unterheben.", "Die Streifen vom Beerenmark sollten noch sichtbar sein!", "In eine Form füllen und kalt stellen."]
+}, {
+  "category": "Nachspeise",
+  "season": [7, 8],
+  "ingredients": [{
+    "ingredient_id": 90,
+    "value": 200,
+    "fraction": false,
+    "name": "Risottoreis",
+    "unit": "g"
+  }, {
+    "ingredient_id": 91,
+    "value": 2,
+    "fraction": true,
+    "name": "Schalotten, klein geschnitten",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 92,
+    "value": 1,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 93,
+    "value": 250,
+    "fraction": true,
+    "name": "frischer Heidelbeersaft",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 94,
+    "value": 500,
+    "fraction": false,
+    "name": "Gemüsefond",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 95,
+    "value": 60,
+    "fraction": false,
+    "name": "Butterkäse, klein geschnitten",
+    "unit": "g"
+  }, {
+    "ingredient_id": 96,
+    "value": 4,
+    "fraction": true,
+    "name": "Hühnerbrüste (ohne Knochen mit Haut)",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 97,
+    "value": 100,
+    "fraction": false,
+    "name": "Heidelbeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 98,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 99,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 23,
+  "title": "Heidelbeerrisotto mit gebratener Hühnerbrust",
+  "difficultyLevel": 2,
+  "prepTime": 45,
+  "imageName": "ama_sa_d_h_pic11.jpeg",
+  "servings": 4,
+  "directions": ["Den Reis waschen, dann mit den Schalotten in Butter anschwitzen.", "Mit ein wenig Gemüsefond aufgießen", "Risotto bei kleiner Hitze unter Rühren und mehrmaliger Beigabe von etwas Gemüsefond bissfest kochen.", "Kurz vor Ende der Garzeit mit Heidelbeersaft aufgießen.", "Würzen, dann Butterkäse und Heidelbeeren dazugeben.", "Die Hühnerbrüste würzen und saftig braten, mit dem Risotto anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [6, 7, 8],
+  "ingredients": [{
+    "ingredient_id": 100,
+    "value": 600,
+    "fraction": false,
+    "name": "Schweinefilet zugeputzt",
+    "unit": "g"
+  }, {
+    "ingredient_id": 101,
+    "value": 500,
+    "fraction": false,
+    "name": "Petersilwurzel geschält",
+    "unit": "g"
+  }, {
+    "ingredient_id": 102,
+    "value": 150,
+    "fraction": false,
+    "name": "Ribiseln, entstielt",
+    "unit": "g"
+  }, {
+    "ingredient_id": 103,
+    "value": 1,
+    "fraction": true,
+    "name": "Petersilie fein gehackt",
+    "unit": "El"
+  }, {
+    "ingredient_id": 104,
+    "value": 1,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 105,
+    "value": 250,
+    "fraction": false,
+    "name": "Gemüsefond",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 106,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 107,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 108,
+    "value": 0,
+    "fraction": false,
+    "name": "Öl zum Braten",
+    "unit": ""
+  }],
+  "id": 24,
+  "title": "Ribisel-Wurzelgemüse mit Schweinemedaillons",
+  "difficultyLevel": 2,
+  "prepTime": 30,
+  "imageName": "ama_sa_d_h_pic12.jpeg",
+  "servings": 2,
+  "directions": ["Petersilwurzeln in Scheiben schneiden, danach in einem Topf mit Butter kurz anschwitzen, würzen und mit Gemüsefond aufgießen", "Leicht köchelnd garen.", "Sind die Wurzeln weich, Petersilie und Ribiseln dazugeben.", "Das Schweinefilet in acht gleichmäßige Medaillons schneiden und mit Salz und Pfeffer würzen.", "In einer Pfanne rosa braten und mit dem Petersilwurzelgemüse anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [6, 7, 8],
+  "ingredients": [{
+    "ingredient_id": 0,
+    "value": 600,
+    "fraction": false,
+    "name": "Hühnerbrust (ohne Haut und Knochen, in Streifen geschnitten)",
+    "unit": "g"
+  }, {
+    "ingredient_id": 1,
+    "value": 500,
+    "fraction": false,
+    "name": "Geflügelfond",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 2,
+    "value": 500,
+    "fraction": false,
+    "name": "Schlagobers",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 3,
+    "value": 1,
+    "fraction": true,
+    "name": "rote Pfefferkörner",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 4,
+    "value": 200,
+    "fraction": false,
+    "name": "Stachelbeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 5,
+    "value": 0,
+    "fraction": false,
+    "name": "weißer Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 6,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 7,
+    "value": 1,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 8,
+    "value": 0,
+    "fraction": false,
+    "name": "Koriander gemahlen",
+    "unit": ""
+  }, {
+    "ingredient_id": 9,
+    "value": 0,
+    "fraction": false,
+    "name": "Speisestärke",
+    "unit": ""
+  }],
+  "id": 25,
+  "title": "Hühnergeschnetzeltes mit Stachelbeeren",
+  "difficultyLevel": 2,
+  "prepTime": 45,
+  "imageName": "ama_sa_d_h_pic10.jpeg",
+  "servings": 4,
+  "directions": ["Für die Sauce Geflügelfond und Schlagobers in einen Topf gießen, aufkochen und um ein Drittel reduzieren lassen, dann mit Salz, Pfeffer und Koriander würzen.", "Butter in einer Pfanne erhitzen und darin das gesalzene Hühnerfleisch mit dem roten Pfeffer kurz anbraten", "Anschließend mit der Sauce aufgießen, die Stachelbeeren dazugeben und vom Herd nehmen.", "Mit Basmatireis anrichten."]
+}, {
+  "category": "Vorspeise",
+  "season": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 10,
+    "value": 500,
+    "fraction": false,
+    "name": "Erdäpfel (gekocht und geschält)",
+    "unit": "g"
+  }, {
+    "ingredient_id": 11,
+    "value": 3,
+    "fraction": true,
+    "name": "fein gehackte Kräuter (z.B. Petersilie, Dill, Basilikum etc.)",
+    "unit": "El"
+  }, {
+    "ingredient_id": 12,
+    "value": 150,
+    "fraction": false,
+    "name": "Olivenöl",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 13,
+    "value": 2,
+    "fraction": true,
+    "name": "Apfelessig",
+    "unit": "El"
+  }, {
+    "ingredient_id": 14,
+    "value": 100,
+    "fraction": false,
+    "name": "Gemüsesuppe",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 15,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 16,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 17,
+    "value": 0,
+    "fraction": false,
+    "name": "Muskat",
+    "unit": ""
+  }],
+  "id": 26,
+  "title": "Erdäpfel-Dip mit Kräutern",
+  "difficultyLevel": 1,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_v_pic2.jpeg",
+  "servings": 4,
+  "directions": ["Die gekochten Erdäpfel mit der Erdäpfelpresse zerdrücken oder passieren.", "Die fein gehackten Kräuter und Gewürze unter die Erdäpfelmasse rühren.", "Langsam, unter ständigem Rühren das Olivenöl einfließen lassen, bis die Masse cremig ist.", "Zusammenpressen und, mit Pergamentpapier bedeckt, eine Stunde backen.", "Essig und bei Bedarf etwas Gemüsesuppe einrühren, um eine cremige Konsistenz zu erreichen.", "Schmeckt köstlich zu kaltem Braten oder Rohkost."]
+}, {
+  "category": "Vorspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 18,
+    "value": 230,
+    "fraction": false,
+    "name": "Erdäpfel (gekocht und geschält)",
+    "unit": "g"
+  }, {
+    "ingredient_id": 19,
+    "value": 100,
+    "fraction": false,
+    "name": "Salatgurke",
+    "unit": "g"
+  }, {
+    "ingredient_id": 20,
+    "value": 1,
+    "fraction": true,
+    "name": "gekochtes Ei",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 21,
+    "value": 150,
+    "fraction": true,
+    "name": "Sauerrahm",
+    "unit": "g"
+  }, {
+    "ingredient_id": 22,
+    "value": 40,
+    "fraction": false,
+    "name": "roter Paprika",
+    "unit": "g"
+  }, {
+    "ingredient_id": 23,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 24,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 25,
+    "value": 0,
+    "fraction": false,
+    "name": "gemahlener Kümmel",
+    "unit": ""
+  }],
+  "id": 27,
+  "waitTime": 60,
+  "title": "Erdäpfel-Aufstrich",
+  "difficultyLevel": 1,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_v_pic3.jpeg",
+  "servings": 5,
+  "directions": ["Die gekochten Erdäpfel mit der Erdäpfelpresse zerdrücken und mit Sauerrahm und den Gewürzen verrühren.", "Das gekochte Ei fein hacken und mit den würfelig geschnittenen Gurken und Paprika unter die Erdäpfelmasse rühren."]
+}, {
+  "category": "Hauptspeise",
+  "season": [4, 5, 6],
+  "ingredients": [{
+    "ingredient_id": 26,
+    "value": 12,
+    "fraction": true,
+    "name": "weißer Spargel, geschält",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 27,
+    "value": 500,
+    "fraction": false,
+    "name": "Wasser",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 28,
+    "value": 0,
+    "fraction": false,
+    "name": "Weißwein",
+    "unit": ""
+  }, {
+    "ingredient_id": 29,
+    "value": 0,
+    "fraction": false,
+    "name": "Zitronensaft",
+    "unit": ""
+  }, {
+    "ingredient_id": 30,
+    "value": 4,
+    "fraction": true,
+    "name": "mittelgroße Heurige",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 31,
+    "value": 2,
+    "fraction": true,
+    "name": "Schalotten fein geschnitten",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 32,
+    "value": 250,
+    "fraction": false,
+    "name": "Obers",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 33,
+    "value": 8,
+    "fraction": true,
+    "name": "Schweinemedaillons (je 80g)",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 34,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 35,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 36,
+    "value": 0,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": ""
+  }, {
+    "ingredient_id": 37,
+    "value": 0,
+    "fraction": false,
+    "name": "Öl zum Braten",
+    "unit": ""
+  }],
+  "id": 28,
+  "title": "Spargelragout mit Heurigen und Schweinefilet",
+  "difficultyLevel": 1,
+  "prepTime": 45,
+  "imageName": "ama_sa_d_h_pic13.jpeg",
+  "servings": 4,
+  "directions": ["Für einen Fond Wasser, Spargelschalen und -enden, Wein und Zitronensaft mit Salz und Zucker auf weniger als die Hälfte einkochen. Abseihen.", "Schalotten in Butter anschwitzen, den geschnittenen Spargel (1 cm) dazugeben, mit Fond und Obers aufgießen.", "Einkochen lassen, würzen.", "Die Heurigen kochen.", "Schweinemedaillons vorsichtig klopfen, würzen und rosa braten.", "Ragout mit den Heurigen und den Medaillons anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 38,
+    "value": 10,
+    "fraction": false,
+    "name": "mehlig kochende Erdäpfel",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 39,
+    "value": 40,
+    "fraction": false,
+    "name": "Mehl",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 40,
+    "value": 200,
+    "fraction": false,
+    "name": "kaltes Wasser",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 41,
+    "value": 3,
+    "fraction": true,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 42,
+    "value": 10,
+    "fraction": false,
+    "name": "getrocknete Paradeiser",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 43,
+    "value": 3,
+    "fraction": true,
+    "name": "mittelscharfe Pfefferoni",
+    "unit": "Stück"
+  }],
+  "id": 29,
+  "title": "Erdäpfelnudeln mit Pfefferoni und Paradeisern",
+  "difficultyLevel": 2,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_h_pic17.jpeg",
+  "servings": 2,
+  "directions": ["Semmeln dünn schneiden. 3 Eier, Milch und 4 dag Zucker versprudeln. Semmeln damit befeuchten und stehen lassen.", "Eingefettete Kasserolle mit 3 Lagen Semmeln und 2 Lagen fein geschnittenen Apfelscheiben, die mit Zimt, Zucker, Rosinen und zerlassener Butter gemischt werden, füllen", "Schinken klein schneiden und pürieren.", "Zusammenpressen und, mit Pergamentpapier bedeckt, eine Stunde backen.", "3 Eiklar und 12 dag Zucker zu Schnee schlagen und über die Mehlspeise streichen.", "Noch ein paar Minuten ins heiße Rohr stellen, bis die Schneespitzen gebräunt sind."]
+}, {
+  "category": "Vorspeise",
+  "season": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 44,
+    "value": 2,
+    "fraction": true,
+    "name": "Salatgurken",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 45,
+    "value": 2,
+    "fraction": true,
+    "name": "dünne Scheiben Frühstücksspeck",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 46,
+    "value": 1,
+    "fraction": true,
+    "name": "Zwiebel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 47,
+    "value": 1,
+    "fraction": true,
+    "name": "Thymian",
+    "unit": "Zweig"
+  }, {
+    "ingredient_id": 48,
+    "value": 4,
+    "fraction": true,
+    "name": "Gemüsefond",
+    "unit": "El"
+  }, {
+    "ingredient_id": 49,
+    "value": 1,
+    "fraction": true,
+    "name": "Olivenöl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 50,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 51,
+    "value": 0,
+    "fraction": false,
+    "name": "Chilipulver",
+    "unit": ""
+  }],
+  "id": 30,
+  "title": "Geschmortes Gurkengemüse",
+  "difficultyLevel": 1,
+  "prepTime": 15,
+  "imageName": "ama_sa_d_v_pic5.jpeg",
+  "servings": 2,
+  "directions": ["Gurke schälen und in gefällige Stücke schneiden.", "Zwiebel und Speck fein schneiden und in Olivenöl anschwitzen.", "Gurken dazugeben und durchrühren und mit dem Gemüsefond aufgießen.", "Zwei Minuten zugedeckt schmoren lassen. Würzen und anrichten."]
+}, {
+  "category": "Nachspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 52,
+    "value": 10,
+    "fraction": false,
+    "name": "Muskatkürbis",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 53,
+    "value": 5,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 54,
+    "value": 0,
+    "fraction": false,
+    "name": "etwas Wasser",
+    "unit": ""
+  }, {
+    "ingredient_id": 55,
+    "value": 1,
+    "fraction": true,
+    "name": "Sternanis",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 56,
+    "value": 0,
+    "fraction": true,
+    "name": "Zimtstange",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 57,
+    "value": 1,
+    "fraction": true,
+    "name": "frisches Ei",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 58,
+    "value": 2,
+    "fraction": true,
+    "name": "frische Eidotter",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 59,
+    "value": 7,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 60,
+    "value": 125,
+    "fraction": false,
+    "name": "Obers",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 61,
+    "value": 5,
+    "fraction": false,
+    "name": "Kürbiskernkrokant",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 62,
+    "value": 1,
+    "fraction": true,
+    "name": "Kernöl",
+    "unit": "El"
+  }],
+  "id": 31,
+  "waitTime": 240,
+  "title": "Kürbisparfait",
+  "difficultyLevel": 3,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic10.jpeg",
+  "servings": 4,
+  "directions": ["Kürbis schälen und schneiden, mit den Gewürzen, dem Zucker und etwas Wasser weich kochen.", "Abseihen, gut abtropfen lassen. Pürieren.", "Eier mit Zucker warm und kalt aufschlagen.", "Kürbispüree und halbgeschlagenes Obers mit dem gehackten Krokant und dem Kernöl unter die Eier heben.", "3 Eiklar und 12 dag Zucker zu Schnee schlagen und über die Mehlspeise streichen.", "In Formen füllen und für mindestens 4 Stunden einfrieren.", "Vor dem Servieren leicht antauen lassen."]
+}, {
+  "category": "Hauptspeise",
+  "season": [7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 63,
+    "value": 1,
+    "fraction": true,
+    "name": "mittlere Zwiebel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 64,
+    "value": 24,
+    "fraction": false,
+    "name": "Risottoreis",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 65,
+    "value": 50,
+    "fraction": false,
+    "name": "Weißwein",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 66,
+    "value": 500,
+    "fraction": false,
+    "name": "Gemüsefond",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 67,
+    "value": 6,
+    "fraction": false,
+    "name": "geriebener Parmesan",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 68,
+    "value": 10,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 69,
+    "value": 1,
+    "fraction": true,
+    "name": "Zucchini in Würfel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 70,
+    "value": 4,
+    "fraction": true,
+    "name": "Hühnerbrüste",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 71,
+    "value": 12,
+    "fraction": true,
+    "name": "entkernte Oliven",
+    "unit": "Stück"
+  }],
+  "id": 32,
+  "title": "Zucchinirisotto mit Hühnerbrust",
+  "difficultyLevel": 1,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_h_pic16.jpeg",
+  "servings": 4,
+  "directions": ["Fein geschnittene Zwiebel und Zucchini im Olivenöl anschwitzen, Reis dazugeben und kurz mitrösten.", "Mit warmem Weißwein aufgießen.", "Nach und nach den heißen Gemüsefond zugießen. 15 – 20 Minuten köcheln lassen.", "Wenn die Flüssigkeit aufgesogen ist, Parmesan und Butter einrühren.", "Würzen. Hühnerbrüste mit Salz, Pfeffer und geriebener Zitronenschale würzen und mit Olivenöl bestreichen.", "In einer Pfanne saftig braten, Oliven zu den Hühnerbrüsten geben, durchschwenken und mit dem Risotto anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 72,
+    "value": 1,
+    "fraction": true,
+    "name": "mittelgroße Melanzane",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 73,
+    "value": 3,
+    "fraction": true,
+    "name": "Olivenöl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 74,
+    "value": 3,
+    "fraction": true,
+    "name": "Paradeiser geschält und entkernt",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 75,
+    "value": 1,
+    "fraction": true,
+    "name": "Zwiebel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 76,
+    "value": 1,
+    "fraction": true,
+    "name": "Knoblauchzehe",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 77,
+    "value": 13,
+    "fraction": false,
+    "name": "Mozzarellawürfel",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 78,
+    "value": 6,
+    "fraction": true,
+    "name": "Oliven",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 79,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 80,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 81,
+    "value": 0,
+    "fraction": false,
+    "name": "Basilikum",
+    "unit": ""
+  }, {
+    "ingredient_id": 82,
+    "value": 0,
+    "fraction": false,
+    "name": "Parmesan",
+    "unit": ""
+  }],
+  "id": 33,
+  "waitTime": 25,
+  "title": "Gefüllte Melanzane mit Mozzarella",
+  "difficultyLevel": 3,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_h_pic15.jpeg",
+  "servings": 2,
+  "directions": ["Melanzane der Länge nach in Scheiben schneiden. Auf ein Backblech legen, würzen und mit Olivenöl bestreichen.", "Im Backrohr auf oberster Schiene 10 Minuten vorbacken.", "Paradeiser mit den Resten der Melanzane und der Zwiebel in Würfel schneiden", "Alles in Olivenöl kurz dünsten, überkühlen lassen. Mozzarella dazu geben. Pikant abschmecken.", "Je zwei El der Masse in eine Melanzane Scheibe geben und einrollen.", "In eine Auflaufform legen, mit Parmesan bestreuen. Bei 180° 15 Minuten backen."]
+}, {
+  "category": "Nachspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 83,
+    "value": 4,
+    "fraction": true,
+    "name": "nicht zu feste Äpfel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 84,
+    "value": 125,
+    "fraction": false,
+    "name": "Wasser",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 85,
+    "value": 4,
+    "fraction": true,
+    "name": "Kristallzucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 86,
+    "value": 1,
+    "fraction": true,
+    "name": "Zimtrinde",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 87,
+    "value": 4,
+    "fraction": true,
+    "name": "Gewürznelken",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 88,
+    "value": 1,
+    "fraction": true,
+    "name": "Zitrone",
+    "unit": "Saft"
+  }, {
+    "ingredient_id": 89,
+    "value": 3,
+    "fraction": true,
+    "name": "Apfelschnaps",
+    "unit": "El"
+  }, {
+    "ingredient_id": 90,
+    "value": 1,
+    "fraction": true,
+    "name": "ganzer Apfel geschält",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 91,
+    "value": 1,
+    "fraction": true,
+    "name": "Ei",
+    "unit": ""
+  }, {
+    "ingredient_id": 92,
+    "value": 3,
+    "fraction": true,
+    "name": "Eidotter",
+    "unit": ""
+  }, {
+    "ingredient_id": 93,
+    "value": 6,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 94,
+    "value": 200,
+    "fraction": false,
+    "name": "Obers",
+    "unit": "ml"
+  }],
+  "id": 34,
+  "waitTime": 240,
+  "title": "Apfelparfait",
+  "difficultyLevel": 3,
+  "prepTime": 25,
+  "imageName": "ama_sa_d_n_pic12.jpeg",
+  "servings": 4,
+  "directions": ["Geschälte Apfelspalten mit Wasser, Zucker, Zimtrinde und Gewürznelken aufkochen. Gewürze entfernen, Äpfel pürieren.", "Danach in einem Topf um die Hälfte reduzieren lassen.", "Parfait: Apfel in kleine Würfel schneiden, mit Zitronensaft und Apfelschnaps marinieren.", "Ei, Eidotter und Zucker über Dampf warm, dann kalt schlagen.", "Eischaum mit dem erkalteten Apfelmus und den Apfelwürfeln verrühren.", "Obers halbsteif schlagen, unter die Parfaitmasse heben.", "In Form füllen, ca. 4 Stunden im Tiefkühlfach frieren."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 95,
+    "value": 3,
+    "fraction": true,
+    "name": "Apfel entkernt",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 96,
+    "value": 125,
+    "fraction": false,
+    "name": "Apfelsaft",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 97,
+    "value": 60,
+    "fraction": false,
+    "name": "Weißwein",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 98,
+    "value": 1,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 99,
+    "value": 3,
+    "fraction": true,
+    "name": "Zucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 100,
+    "value": 0,
+    "fraction": false,
+    "name": "Safran",
+    "unit": ""
+  }, {
+    "ingredient_id": 101,
+    "value": 8,
+    "fraction": true,
+    "name": "Schweinsfilet",
+    "unit": "Portionen "
+  }, {
+    "ingredient_id": 102,
+    "value": 8,
+    "fraction": false,
+    "name": "Stärkemehl",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 103,
+    "value": 8,
+    "fraction": false,
+    "name": "Eiswasser",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 104,
+    "value": 1,
+    "fraction": true,
+    "name": "Eiweiß",
+    "unit": "0"
+  }, {
+    "ingredient_id": 105,
+    "value": 0,
+    "fraction": false,
+    "name": "Koriander",
+    "unit": "0"
+  }, {
+    "ingredient_id": 106,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 107,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 108,
+    "value": 0,
+    "fraction": false,
+    "name": "Thymian",
+    "unit": ""
+  }, {
+    "ingredient_id": 0,
+    "value": 0,
+    "fraction": false,
+    "name": "Öl",
+    "unit": "0"
+  }],
+  "id": 35,
+  "title": "Safran-Äpfel mit Schweinsfilet",
+  "difficultyLevel": 2,
+  "prepTime": 40,
+  "imageName": "ama_sa_d_h_pic21.jpeg",
+  "servings": 4,
+  "directions": ["Äpfel ungeschält in Spalten schneiden.", "Zucker in einer Pfanne karamellisieren, mit Apfelsaft und Weißwein ablöschen.", "Safran dazu geben, köcheln lassen bis der Zucker aufgelöst ist.", "Kalte Butter einrühren, Äpfel dazu, vom Herd nehmen, zugedeckt ziehen lassen.", "Stärkemehl mit Eiweiß, Eiswasser und Gewürzen vermischen.", "Filets salzen, durch Teig ziehen.", "In Öl frittieren. Abtropfen lassen, mit den lauwarmen Safran-Äpfeln anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 1,
+    "value": 2,
+    "fraction": true,
+    "name": "Äpfel geschält, gewürfelt",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 2,
+    "value": 20,
+    "fraction": false,
+    "name": "Semmelwürfel",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 3,
+    "value": 2,
+    "fraction": true,
+    "name": "Topfen",
+    "unit": "El"
+  }, {
+    "ingredient_id": 4,
+    "value": 6,
+    "fraction": true,
+    "name": "Eidotter",
+    "unit": ""
+  }, {
+    "ingredient_id": 5,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 6,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 7,
+    "value": 0,
+    "fraction": false,
+    "name": "Zimt",
+    "unit": ""
+  }, {
+    "ingredient_id": 8,
+    "value": 6,
+    "fraction": true,
+    "name": "Schlagobers",
+    "unit": "El"
+  }, {
+    "ingredient_id": 9,
+    "value": 25,
+    "fraction": false,
+    "name": "Rinderfilet",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 10,
+    "value": 1,
+    "fraction": true,
+    "name": "kl. Zwiebel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 11,
+    "value": 0,
+    "fraction": false,
+    "name": "Öl",
+    "unit": ""
+  }, {
+    "ingredient_id": 12,
+    "value": 0,
+    "fraction": false,
+    "name": "Thymian",
+    "unit": ""
+  }, {
+    "ingredient_id": 13,
+    "value": 6,
+    "fraction": true,
+    "name": "Champignons",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 14,
+    "value": 250,
+    "fraction": false,
+    "name": "Rindsuppe",
+    "unit": "ml"
+  }],
+  "id": 36,
+  "waitTime": 10,
+  "title": "Apfel-Semmellaibchen mit Rinderfilet",
+  "difficultyLevel": 2,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_h_pic18.jpeg",
+  "servings": 2,
+  "directions": ["Topfen mit Eidottern verrühren, würzen.", "Semmelwürfel mit Obers befeuchten, mit Apfelwürfel und Topfen vermengen.", "10 Minuten rasten lassen", "Laibchen formen, in Öl langsam braten.", "Rinderfilet und Champignons blättrig, Zwiebel fein schneiden.", "Filet rasch bei großer Hitze anbraten, aus der Pfanne geben.", "In Bratensatz Zwiebel und Champignons anschwitzen, mit Suppe und Obers aufgießen, einkochen lassen.", "Würzen mit Salz, Pfeffer, Thymian.", "Fleisch zurück in die Sauce geben. Mit Laibchen anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 15,
+    "value": 1,
+    "fraction": true,
+    "name": "Apfel in Würfeln",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 16,
+    "value": 4,
+    "fraction": true,
+    "name": "Hühnerbrüste",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 17,
+    "value": 25,
+    "fraction": false,
+    "name": "Topfen",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 18,
+    "value": 1,
+    "fraction": true,
+    "name": "Zwiebel fein geschnitten",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 19,
+    "value": 1,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 20,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 21,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 22,
+    "value": 0,
+    "fraction": false,
+    "name": "Koriander gemahlen",
+    "unit": ""
+  }],
+  "id": 37,
+  "title": "Hühnerbrust mit Apfel-Topfenfülle",
+  "difficultyLevel": 3,
+  "prepTime": 40,
+  "imageName": "ama_sa_d_h_pic19.jpeg",
+  "servings": 4,
+  "directions": ["Hühnerbrüste waschen.", "Zwiebel in Butter anschwitzen, Apfelwürfel dazu, kurz durchschwenken, auskühlen lassen.", "Topfen mit Gewürzen glatt rühren, Zwiebel und Apfelwürfel dazugeben.", "Masse mit Dressiersack unter die\rHaut der Hühnerbrüste spritzen.", "Hühnerbrüste mit Salz und Pfeffer würzen, in Pfanne auf Hautseite nicht zu heiß anbraten.", "Umdrehen, im Rohr fertig braten.", "Mit Selleriegemüse anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 23,
+    "value": 60,
+    "fraction": false,
+    "name": "feste Birnen",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 24,
+    "value": 1,
+    "fraction": true,
+    "name": "unbehandelte Orange",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 25,
+    "value": 1,
+    "fraction": true,
+    "name": "Staubzucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 26,
+    "value": 100,
+    "fraction": false,
+    "name": "Rotweinessig",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 27,
+    "value": 50,
+    "fraction": false,
+    "name": "Rotwein",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 28,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 29,
+    "value": 0,
+    "fraction": false,
+    "name": "Chilipulver",
+    "unit": ""
+  }, {
+    "ingredient_id": 30,
+    "value": 0,
+    "fraction": false,
+    "name": "Ingwer",
+    "unit": ""
+  }, {
+    "ingredient_id": 31,
+    "value": 1,
+    "fraction": true,
+    "name": "Vanilleschote",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 32,
+    "value": 0,
+    "fraction": true,
+    "name": "Zimtstange",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 33,
+    "value": 3,
+    "fraction": true,
+    "name": "Gelierzucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 34,
+    "value": 60,
+    "fraction": false,
+    "name": "Kalbsrücken ausgelöst",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 35,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 36,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 37,
+    "value": 0,
+    "fraction": false,
+    "name": "Thymian",
+    "unit": ""
+  }],
+  "id": 38,
+  "title": "Birnen-Chutney mit Kalbsrücken",
+  "difficultyLevel": 3,
+  "prepTime": 45,
+  "imageName": "ama_sa_d_h_pic20.jpeg",
+  "servings": 4,
+  "directions": ["Birnen schälen, vierteln, entkernen, in Würfel schneiden.", "Staubzucker karamellisieren lassen, mit Rotwein und Rotweinessig ablöschen, Vanilleschote und Zimtstange dazu, aufkochen lassen.", "Gelierzucker und Birnenwürfel dazu, Chutney 15 Minuten köcheln lassen.", "Etwas Ingwer schälen, fein hacken und mit etwas abgeriebener Orangenschale in das Chutney rühren, mit Salz und Chili würzen, einmal aufkochen lassen, Gewürze entfernen, in Gläser abfüllen.", "Kalbsrücken rosa braten, 5 Minuten rasten lassen, mit Chutney anrichten."]
+}, {
+  "category": "Nachspeise",
+  "season": [8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 38,
+    "value": 15,
+    "fraction": false,
+    "name": "Maizena",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 39,
+    "value": 8,
+    "fraction": false,
+    "name": "Mehl glatt",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 40,
+    "value": 3,
+    "fraction": true,
+    "name": "Eidotter",
+    "unit": ""
+  }, {
+    "ingredient_id": 41,
+    "value": 20,
+    "fraction": false,
+    "name": "Staubzucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 42,
+    "value": 12,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 43,
+    "value": 8,
+    "fraction": true,
+    "name": "Birnen",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 44,
+    "value": 500,
+    "fraction": false,
+    "name": "roter Traubensaft",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 45,
+    "value": 2,
+    "fraction": true,
+    "name": "Zucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 46,
+    "value": 0,
+    "fraction": false,
+    "name": "Gewürznelken",
+    "unit": ""
+  }, {
+    "ingredient_id": 47,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }],
+  "id": 39,
+  "waitTime": 70,
+  "title": "Birnenkuchen",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic11.jpeg",
+  "servings": 6,
+  "directions": ["Birnen schälen und entkernen, mit Traubensaft, Zucker und Gewürznelken nicht zu weich kochen.", "Im Saft auskühlen lassen.", "Mürbteig: Butter, Zucker, Eidotter, Salz schaumig rühren; die Masse in Mehl und Maizena einarbeiten und ca. 20 Minuten kühl stellen, Teig nicht zu dünn ausrollen.", "Mit Teighälfte Tortenform auslegen.", "Birnen abtropfen lassen und trocken auf dem Teig verteilen, restlichen Teig darüber legen, gut andrücken, mit Ei bestreichen.", "Bei mittlerer Hitze ca. 50 Minuten backen."]
+}, {
+  "category": "Hauptspeise",
+  "season": [7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 48,
+    "value": 4,
+    "fraction": true,
+    "name": "Hühnerkeulen",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 49,
+    "value": 4,
+    "fraction": true,
+    "name": "Thymian",
+    "unit": "Zweige "
+  }, {
+    "ingredient_id": 50,
+    "value": 2,
+    "fraction": true,
+    "name": "Olivenöl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 51,
+    "value": 1,
+    "fraction": true,
+    "name": "brauner Zucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 52,
+    "value": 125,
+    "fraction": false,
+    "name": "Balsamico",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 53,
+    "value": 250,
+    "fraction": false,
+    "name": "Bratensaft",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 54,
+    "value": 1,
+    "fraction": false,
+    "name": "Ingwer",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 55,
+    "value": 3,
+    "fraction": true,
+    "name": "Schalotten",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 56,
+    "value": 16,
+    "fraction": true,
+    "name": "Zwetschken",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 57,
+    "value": 2,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 58,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 59,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 40,
+  "waitTime": 40,
+  "title": "Zwetschken mit Huhn und Thymian",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_h_pic7.jpeg",
+  "servings": 2,
+  "directions": ["Hühnerkeulen salzen, pfeffern, in Olivenöl beidseitig scharf anbraten, braunen Zucker, Thymian, Ingwer und klein geschnittene Schalotten beifügen, kurz durchrösten und mit Balsamico ablöschen.", "Mit Bratensaft auffüllen und zugedeckt ca. 40 Minuten bei kleiner Flamme langsam schmoren.", "Keulen herausnehmen, Sauce passieren, Zwetschken mit einer Nadel rundherum einstechen, Butter leicht bräunen und die Zwetschken darin kurz braten.", "Keulen anrichten, mit der Sauce überziehen, mit Thymian und Zwetschken garnieren."]
+}, {
+  "category": "Hauptspeise",
+  "season": [7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 60,
+    "value": 50,
+    "fraction": false,
+    "name": "Ringlotten",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 61,
+    "value": 125,
+    "fraction": false,
+    "name": "Orangensaft",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 62,
+    "value": 125,
+    "fraction": false,
+    "name": "Riesling",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 63,
+    "value": 5,
+    "fraction": false,
+    "name": "Gelierzucker",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 64,
+    "value": 0,
+    "fraction": false,
+    "name": "Bittermandel(aroma)",
+    "unit": ""
+  }, {
+    "ingredient_id": 65,
+    "value": 60,
+    "fraction": false,
+    "name": "Rehrücken",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 66,
+    "value": 0,
+    "fraction": false,
+    "name": "Pflanzenöl",
+    "unit": ""
+  }, {
+    "ingredient_id": 67,
+    "value": 0,
+    "fraction": false,
+    "name": "Butter",
+    "unit": ""
+  }, {
+    "ingredient_id": 68,
+    "value": 1,
+    "fraction": true,
+    "name": "Zimtstange",
+    "unit": ""
+  }, {
+    "ingredient_id": 69,
+    "value": 0,
+    "fraction": false,
+    "name": "Pimentkörner",
+    "unit": ""
+  }, {
+    "ingredient_id": 70,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 71,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 72,
+    "value": 0,
+    "fraction": false,
+    "name": "Wachholderbeeren",
+    "unit": ""
+  }, {
+    "ingredient_id": 73,
+    "value": 4,
+    "fraction": false,
+    "name": "roter Portwein",
+    "unit": "cl"
+  }, {
+    "ingredient_id": 74,
+    "value": 125,
+    "fraction": false,
+    "name": "fertige Rehsauce",
+    "unit": "ml"
+  }],
+  "id": 41,
+  "title": "Eingelegte Ringlotten an Rehrücken",
+  "difficultyLevel": 3,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_h_pic6.jpeg",
+  "servings": 4,
+  "directions": ["Orangensaft und Riesling mit Bittermandel und Gelierzucker aufkochen, über die mit Nadel eingestochenen Ringlotten gießen, überkühlen lassen.", "Rehrücken in Öl und etwas Butter anbraten, Salz, Pfeffer, Aromaten beigeben und ca. 3–4 Minuten beidseitig langsam braten.", "Aus der Pfanne nehmen, in Alufolie wickeln und rasten lassen.", "Bratenrückstand mit Portwein und Rehsauce ablöschen, kurz einkochen, passieren.", "Rehrücken aufschneiden, mit der Sauce umgießen und mit den Ringlotten anrichten."]
+}, {
+  "category": "Nachspeise",
+  "season": [6, 7],
+  "ingredients": [{
+    "ingredient_id": 75,
+    "value": 1,
+    "fraction": true,
+    "name": "Strudelteig",
+    "unit": "Rolle"
+  }, {
+    "ingredient_id": 76,
+    "value": 500,
+    "fraction": false,
+    "name": "Kirschen entkernt",
+    "unit": "g"
+  }, {
+    "ingredient_id": 77,
+    "value": 125,
+    "fraction": false,
+    "name": "Kirschensaft",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 78,
+    "value": 2,
+    "fraction": true,
+    "name": "Kristallzucker",
+    "unit": "El"
+  }, {
+    "ingredient_id": 79,
+    "value": 2,
+    "fraction": true,
+    "name": "roter Portwein",
+    "unit": "cl"
+  }, {
+    "ingredient_id": 80,
+    "value": 1,
+    "fraction": true,
+    "name": "Maizena",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 81,
+    "value": 1,
+    "fraction": true,
+    "name": "Ei",
+    "unit": ""
+  }, {
+    "ingredient_id": 82,
+    "value": 5,
+    "fraction": false,
+    "name": "grob gehackte Pistazien",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 83,
+    "value": 4,
+    "fraction": true,
+    "name": "Kirschenmarmelade",
+    "unit": "El"
+  }, {
+    "ingredient_id": 84,
+    "value": 0,
+    "fraction": false,
+    "name": "Minze zum Garnieren",
+    "unit": ""
+  }],
+  "id": 42,
+  "waitTime": 10,
+  "title": "Kirschen in Pistazienstrudelteig",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic2.jpeg",
+  "servings": 4,
+  "directions": ["Kirschensaft mit Zucker und Portwein aufkochen.", "Kurz reduzieren, mit Maizena binden und über die Kirschen gießen, erkalten lassen.", "Strudelteig in kleine Rechtecke schneiden und auf ein Blech mit Backpapier setzen.", "Die Rechtecke mit Kirschmarmelade bestreichen, mit Kirschenragout füllen.", "Die Ränder festdrücken und die Teigenden eindrehen.", "Mit Ei bestreichen, mit Pistazien bestreuen und im Rohr bei ca. 200 °C 10 –12 Minuten überbacken.", "Mit Kirsche und Minze garnieren."]
+}, {
+  "category": "Nachspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 85,
+    "value": 300,
+    "fraction": false,
+    "name": "fein geriebene Karotten",
+    "unit": "g"
+  }, {
+    "ingredient_id": 86,
+    "value": 6,
+    "fraction": true,
+    "name": "Eidotter",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 87,
+    "value": 6,
+    "fraction": true,
+    "name": "Eiweiß",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 88,
+    "value": 160,
+    "fraction": false,
+    "name": "Honig",
+    "unit": "g"
+  }, {
+    "ingredient_id": 89,
+    "value": 0,
+    "fraction": false,
+    "name": "Saft und Schale von zwei Zitronen",
+    "unit": ""
+  }, {
+    "ingredient_id": 90,
+    "value": 300,
+    "fraction": false,
+    "name": "Haselnüsse gerieben",
+    "unit": "g"
+  }, {
+    "ingredient_id": 91,
+    "value": 1,
+    "fraction": false,
+    "name": "Zimt gemahlen",
+    "unit": "Prise"
+  }, {
+    "ingredient_id": 92,
+    "value": 1,
+    "fraction": false,
+    "name": "Gewürznelken gemahlen",
+    "unit": "Prise"
+  }, {
+    "ingredient_id": 93,
+    "value": 75,
+    "fraction": false,
+    "name": "Weizenvollkornmehl",
+    "unit": "g"
+  }],
+  "id": 43,
+  "waitTime": 25,
+  "title": "Honig-Karottentorte",
+  "difficultyLevel": 1,
+  "prepTime": 15,
+  "imageName": "ama_sa_d_n_pic1.jpeg",
+  "servings": 4,
+  "directions": ["Eidotter mit Honig, Zitronensaft und Zitronenschale schaumig rühren.", "Die Karotten, Haselnüsse sowie Gewürze und Mehl in die Eimasse einrühren.", "Eiweiß halbsteif schlagen und unter die Masse heben.", "In eine beschichtete und befettete Tortenform (25 cm Ø) füllen und bei 170° C ca. 25 Minuten goldbraun backen."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 94,
+    "value": 1,
+    "fraction": true,
+    "name": "Schweineschulter oder Bauchfleisch ohne Knochen",
+    "unit": "kg"
+  }, {
+    "ingredient_id": 95,
+    "value": 300,
+    "fraction": false,
+    "name": "Wurzelwerk (Karotten, gelbe Karotten, Sellerie, Petersilienwurzel)",
+    "unit": "g"
+  }, {
+    "ingredient_id": 96,
+    "value": 1,
+    "fraction": true,
+    "name": "mittelgroße Zwiebel",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 97,
+    "value": 2,
+    "fraction": true,
+    "name": "Lorbeerblätter",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 98,
+    "value": 8,
+    "fraction": true,
+    "name": "Pfefferkörner",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 99,
+    "value": 2,
+    "fraction": true,
+    "name": "Knoblauchzehen",
+    "unit": ""
+  }, {
+    "ingredient_id": 100,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 101,
+    "value": 0,
+    "fraction": false,
+    "name": "Essig",
+    "unit": ""
+  }, {
+    "ingredient_id": 102,
+    "value": 0,
+    "fraction": false,
+    "name": "Krenwurzel",
+    "unit": ""
+  }],
+  "id": 44,
+  "waitTime": 60,
+  "title": "Steirisches Wurzelfleisch",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_h_pic4.jpeg",
+  "servings": 4,
+  "directions": ["Einen Topf Salzwasser erhitzen, mit Essig, Lorbeerblättern und Pfefferkörnern würzen.", "Das Fleisch einlegen und eine Stunde köcheln lassen.", "Das Wurzelwerk und die Zwiebel in Streifen schneiden, mit dem Knoblauch in den Topf geben und kochen lassen, bis das Fleisch weich ist.", "Danach das Fleisch quer zur Faser in Scheiben schneiden und anrichten.", "Mit Kochfond übergießen und mit dem Wurzelwerk belegen.", "Abschließend Kren darüber reiben."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 103,
+    "value": 500,
+    "fraction": false,
+    "name": "Petersilienwurzeln",
+    "unit": "g"
+  }, {
+    "ingredient_id": 104,
+    "value": 25,
+    "fraction": false,
+    "name": "Parmesan frisch gerieben",
+    "unit": "g"
+  }, {
+    "ingredient_id": 105,
+    "value": 90,
+    "fraction": false,
+    "name": "Mehl",
+    "unit": "g"
+  }, {
+    "ingredient_id": 106,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 107,
+    "value": 0,
+    "fraction": false,
+    "name": "schwarzer Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 108,
+    "value": 0,
+    "fraction": false,
+    "name": "Öl zum Backen",
+    "unit": ""
+  }],
+  "id": 45,
+  "waitTime": 15,
+  "title": "Gebackene Petersilienwurzeln mit Parmesan",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_h_pic5.jpeg",
+  "servings": 4,
+  "directions": ["Das Backrohr auf 200° C vorheizen. Inzwischen das Mehl mit Parmesan und den Gewürzen in einer Schüssel vermengen.", "Die Wurzeln schälen, der Länge nach vierteln und 5 Minuten in Salzwasser kochen.", "Danach abseihen und einzeln noch heiß im Mehl wenden.", "In einer Pfanne bodenbedeckt Öl erhitzen und die Wurzeln bei niedriger Hitze von allen Seiten anbraten.", "Überschüssiges Fett abgießen und ca. 10 Minuten im Backrohr goldbraun fertig backen."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 0,
+    "value": 600,
+    "fraction": false,
+    "name": "Pastinaken geschält",
+    "unit": "g"
+  }, {
+    "ingredient_id": 1,
+    "value": 3,
+    "fraction": true,
+    "name": "Eier",
+    "unit": ""
+  }, {
+    "ingredient_id": 2,
+    "value": 1,
+    "fraction": true,
+    "name": "Mehl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 3,
+    "value": 1,
+    "fraction": true,
+    "name": "Grieß",
+    "unit": "El"
+  }, {
+    "ingredient_id": 4,
+    "value": 0,
+    "fraction": false,
+    "name": "Kräutersalz",
+    "unit": ""
+  }, {
+    "ingredient_id": 5,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 6,
+    "value": 3,
+    "fraction": true,
+    "name": "gemischte Kräuter gehackt",
+    "unit": "El"
+  }],
+  "id": 46,
+  "waitTime": 15,
+  "title": "Pastinaken-Laibchen",
+  "difficultyLevel": 2,
+  "prepTime": 25,
+  "imageName": "ama_sa_d_h_pic1.jpeg",
+  "servings": 2,
+  "directions": ["Die rohen, geschälten Pastinaken fein reiben und mit den restlichen Zutaten vermischen.", "Danach den Teig etwas rasten lassen.", "Später Laibchen formen und diese langsam in einer Pfanne braten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 7,
+    "value": 700,
+    "fraction": false,
+    "name": "Schwarzwurzeln geputzt",
+    "unit": "g"
+  }, {
+    "ingredient_id": 8,
+    "value": 200,
+    "fraction": false,
+    "name": "Mixsalat (Vogerlsalat, Ruccola, Frisée)",
+    "unit": "g"
+  }, {
+    "ingredient_id": 9,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 10,
+    "value": 0,
+    "fraction": false,
+    "name": "weißer Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 11,
+    "value": 0,
+    "fraction": false,
+    "name": "Rohrzucker",
+    "unit": ""
+  }, {
+    "ingredient_id": 12,
+    "value": 0,
+    "fraction": false,
+    "name": "Apfelessig",
+    "unit": ""
+  }, {
+    "ingredient_id": 13,
+    "value": 0,
+    "fraction": false,
+    "name": "kaltgepresstes Rapsöl",
+    "unit": ""
+  }, {
+    "ingredient_id": 14,
+    "value": 0,
+    "fraction": false,
+    "name": "Öl zum Frittieren",
+    "unit": ""
+  }, {
+    "ingredient_id": 15,
+    "value": 0,
+    "fraction": false,
+    "name": "Saft einer Zitrone",
+    "unit": ""
+  }],
+  "id": 47,
+  "title": "Knuspriger Schwarzwurzelsalat",
+  "difficultyLevel": 1,
+  "prepTime": 30,
+  "imageName": "ama_sa_d_v_pic1.jpeg",
+  "servings": 2,
+  "directions": ["Die Schwarzwurzeln schälen und in Zitroneneiswasser legen, damit sie nicht braun werden.", "Dann mit dem Sparschäler in Längsstreifen schneiden.", "Öl in einem hohen Topf erhitzen und die abgetropften Schwarzwurzelstreifen darin hellbraun frittieren.", "Das Fett mit Küchenpapier gut abtupfen.", "Aus Essig, Öl und Gewürzen eine Marinade rühren und den Mixsalat damit marinieren.", "Auf Tellern anrichten und die Schwarzwurzeln darauf verteilen."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 16,
+    "value": 2,
+    "fraction": true,
+    "name": "große Rote Rüben",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 17,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 18,
+    "value": 0,
+    "fraction": false,
+    "name": "Kümmel ganz",
+    "unit": ""
+  }, {
+    "ingredient_id": 19,
+    "value": 2,
+    "fraction": true,
+    "name": "Kürbiskerne geröstet und gehackt",
+    "unit": "El"
+  }, {
+    "ingredient_id": 20,
+    "value": 50,
+    "fraction": false,
+    "name": "Cornflakes",
+    "unit": "g"
+  }, {
+    "ingredient_id": 21,
+    "value": 2,
+    "fraction": true,
+    "name": "Eier",
+    "unit": ""
+  }, {
+    "ingredient_id": 22,
+    "value": 4,
+    "fraction": true,
+    "name": "Mehl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 23,
+    "value": 4,
+    "fraction": true,
+    "name": "Öl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 24,
+    "value": 20,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "g"
+  }],
+  "id": 48,
+  "waitTime": 60,
+  "title": "Rote Rüben-Schnitzel",
+  "difficultyLevel": 2,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_h_pic2.jpeg",
+  "servings": 2,
+  "directions": ["Die Roten Rüben in Salzwasser mit Kümmel ca. 1 Stunde weich kochen.", "Mit kaltem Wasser abschrecken und schälen.", "Ausgekühlt in 1 cm dicke Scheiben schneiden.", "Cornflakes zerbröseln und mit den Kürbiskernen mischen.", "Die Roten Rüben erst in Mehl, dann in den verrührten Eiern und zum Schluss in der Cornflakes-Mischung wälzen.", "Öl und Butter erhitzen und die Schnitzel darin goldbraun backen.", "Köstlich mit Blauschimmelkäse-Sauerrahm-Sauce!"]
+}, {
+  "category": "Hauptspeise",
+  "season": [6, 7, 8, 9, 10, 11],
+  "ingredients": [{
+    "ingredient_id": 25,
+    "value": 500,
+    "fraction": false,
+    "name": "weißen Rettich (geschält und grob geraspelt)",
+    "unit": "g"
+  }, {
+    "ingredient_id": 26,
+    "value": 1,
+    "fraction": true,
+    "name": "Sauerrahm",
+    "unit": "Becher "
+  }, {
+    "ingredient_id": 27,
+    "value": 1,
+    "fraction": true,
+    "name": "gehackte Petersilie",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 28,
+    "value": 400,
+    "fraction": false,
+    "name": "fertiges Roastbeef in Scheiben geschnitten",
+    "unit": "g"
+  }, {
+    "ingredient_id": 29,
+    "value": 1,
+    "fraction": true,
+    "name": "Vogerlsalat",
+    "unit": "Tasse"
+  }, {
+    "ingredient_id": 30,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }],
+  "id": 49,
+  "waitTime": 60,
+  "title": "Roastbeef mit Rettichsalat",
+  "difficultyLevel": 2,
+  "prepTime": 25,
+  "imageName": "ama_sa_d_h_pic3.jpeg",
+  "servings": 2,
+  "directions": ["Den Rettich leicht mit Salz würzen und eine Stunde kalt stellen. Danach leicht ausdrücken.", "Das überschüssige Wasser abgießen und den Rettich mit ein paar Löffeln Sauerrahm binden.", "Anschließend mit Petersilie und etwas Salz abschmecken.", "Die Roastbeefscheiben flach auflegen und mit Rettichsalat füllen, dann vorsichtig einrollen.", "Die fertigen Röllchen zusammen mit Vogerlsalat anrichten.", "Geröstetes Vollkornbrot als Garnitur reichen."]
+}, {
+  "category": "Vorspeise",
+  "season": [5, 6, 7],
+  "ingredients": [{
+    "ingredient_id": 31,
+    "value": 700,
+    "fraction": false,
+    "name": "Erdbeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 32,
+    "value": 12,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "g"
+  }, {
+    "ingredient_id": 33,
+    "value": 1,
+    "fraction": true,
+    "name": "fein gehackte Zwiebelwürfel",
+    "unit": "El"
+  }, {
+    "ingredient_id": 34,
+    "value": 100,
+    "fraction": true,
+    "name": "Sellerie",
+    "unit": "g"
+  }, {
+    "ingredient_id": 35,
+    "value": 500,
+    "fraction": false,
+    "name": "Buttermilch",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 36,
+    "value": 250,
+    "fraction": false,
+    "name": "Schlagobers",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 37,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 38,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 39,
+    "value": 0,
+    "fraction": false,
+    "name": "Chili",
+    "unit": ""
+  }],
+  "id": 50,
+  "title": "Kalte pikante Erdbeersuppe",
+  "difficultyLevel": 1,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_v_pic4.jpeg",
+  "servings": 2,
+  "directions": ["Die Erdbeeren pürieren.", "Dann Sellerie in kleine Würfel schneiden und mit den Zwiebeln in Butter anschwitzen.", "Mit Schlagobers und Erdbeermark aufgießen.", "5 Minuten kochen und dann erkalten lassen.", "Mit Buttermilch auffüllen und pikant abschmecken. Kalt servieren."]
+}, {
+  "category": "Nachspeise",
+  "season": [5, 6, 7],
+  "ingredients": [{
+    "ingredient_id": 40,
+    "value": 2,
+    "fraction": true,
+    "name": "Eidotter",
+    "unit": ""
+  }, {
+    "ingredient_id": 41,
+    "value": 1,
+    "fraction": true,
+    "name": "Ei",
+    "unit": ""
+  }, {
+    "ingredient_id": 42,
+    "value": 100,
+    "fraction": false,
+    "name": "Holunderblütensirup",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 43,
+    "value": 250,
+    "fraction": false,
+    "name": "geschlagenes Obers",
+    "unit": "g"
+  }, {
+    "ingredient_id": 44,
+    "value": 250,
+    "fraction": false,
+    "name": "Erdbeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 45,
+    "value": 1,
+    "fraction": true,
+    "name": "Cointreau",
+    "unit": "El"
+  }],
+  "id": 51,
+  "title": "Holunderblütenparfait\rmit marinierten Erdbeeren",
+  "difficultyLevel": 3,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_n_pic8.jpeg",
+  "servings": 2,
+  "directions": ["Das Ei und die Eidotter mit dem Holunderblütensirup verrühren und über Dampf warm aufschlagen.", "Dann vom Herd nehmen und kalt schlagen.", "Schlagobers unterheben.", "Anschließend die Parfaitmasse in eine Terrinenform füllen und einige Stunden gefrieren lassen.", "Die Erdbeeren putzen und eventuell schneiden, mit Cointreau vermischen und 5 Minuten ziehen lassen.", "Parfait in Scheiben schneiden und mit den Erdbeeren anrichten."]
+}, {
+  "category": "Nachspeise",
+  "season": [5, 6, 7],
+  "ingredients": [{
+    "ingredient_id": 46,
+    "value": 600,
+    "fraction": false,
+    "name": "Erdbeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 47,
+    "value": 1,
+    "fraction": true,
+    "name": "Chilischote oder Chilipulver",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 48,
+    "value": 40,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "g"
+  }, {
+    "ingredient_id": 49,
+    "value": 0,
+    "fraction": false,
+    "name": "Zucker nach Geschmack",
+    "unit": ""
+  }, {
+    "ingredient_id": 50,
+    "value": 0,
+    "fraction": false,
+    "name": "Schokoladeeis",
+    "unit": ""
+  }, {
+    "ingredient_id": 51,
+    "value": 0,
+    "fraction": false,
+    "name": "Minze oder Melisse",
+    "unit": ""
+  }],
+  "id": 52,
+  "title": "Heiße Chili-Erdbeeren mit Eis",
+  "difficultyLevel": 1,
+  "prepTime": 20,
+  "imageName": "ama_sa_d_n_pic7.jpeg",
+  "servings": 4,
+  "directions": ["Die Erdbeeren waschen und putzen. Dann vorsichtig abtrocknen und halbieren.", "Butter in einer Pfanne erhitzen, die fein geschnittene Chilischote oder das Chilipulver und etwas Zucker nach Geschmack dazugeben.", "Erdbeeren in der Pfanne kurz anschwitzen, aber nicht zu weich werden lassen.", "Auf einem Teller anrichten und eine Kugel Eis auf die Erdbeeren setzen.", "Mit etwas Minze oder Melisse garnieren."]
+}, {
+  "category": "Nachspeise",
+  "season": [5, 6, 7],
+  "ingredients": [{
+    "ingredient_id": 52,
+    "value": 500,
+    "fraction": false,
+    "name": "Erdbeeren",
+    "unit": "g"
+  }, {
+    "ingredient_id": 53,
+    "value": 250,
+    "fraction": false,
+    "name": "Milch",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 54,
+    "value": 0,
+    "fraction": false,
+    "name": "Vanilleeis",
+    "unit": ""
+  }],
+  "id": 53,
+  "title": "Smoothie mit Erdbeeren und Eis",
+  "difficultyLevel": 1,
+  "prepTime": 15,
+  "imageName": "ama_sa_c_pic1.jpeg",
+  "servings": 2,
+  "directions": ["Vier schöne reife Erdbeeren aussuchen und zur Seite geben.", "Die restlichen mit Milch und Vanilleeis im Mixer gut durchmixen, bis eine cremige Konsistenz entsteht.", "Die vier übrigen Erdbeeren zur Dekoration auf ein Stäbchen stecken.", "Den Erdbeer-Smoothie in Gläsern anrichten und mit den Erdbeerstäbchen dekorieren.", "Noch ein Tipp: Schmeckt auch hervorragend mit Schoko- oder Erdbeereis."]
+}, {
+  "category": "Hauptspeise",
+  "season": [7, 8, 9],
+  "ingredients": [{
+    "ingredient_id": 55,
+    "value": 8,
+    "fraction": true,
+    "name": "Schweinefilet",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 56,
+    "value": 8,
+    "fraction": false,
+    "name": "Stärkemehl",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 57,
+    "value": 8,
+    "fraction": false,
+    "name": "Eiswasser",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 58,
+    "value": 1,
+    "fraction": true,
+    "name": "Eiweiß",
+    "unit": ""
+  }, {
+    "ingredient_id": 59,
+    "value": 1,
+    "fraction": true,
+    "name": "Currypulver",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 60,
+    "value": 8,
+    "fraction": true,
+    "name": "Pfirsiche",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 61,
+    "value": 2,
+    "fraction": true,
+    "name": "Chilischoten",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 62,
+    "value": 1,
+    "fraction": true,
+    "name": "Zwiebel",
+    "unit": ""
+  }, {
+    "ingredient_id": 63,
+    "value": 3,
+    "fraction": true,
+    "name": "weißer Balsamico",
+    "unit": "El"
+  }, {
+    "ingredient_id": 64,
+    "value": 2,
+    "fraction": true,
+    "name": "Zitronensaft",
+    "unit": "El"
+  }, {
+    "ingredient_id": 65,
+    "value": 0,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": ""
+  }, {
+    "ingredient_id": 66,
+    "value": 1,
+    "fraction": true,
+    "name": "Safranpulver",
+    "unit": "Msp."
+  }, {
+    "ingredient_id": 67,
+    "value": 1,
+    "fraction": true,
+    "name": "Koriander gemahlen",
+    "unit": "Msp."
+  }],
+  "id": 54,
+  "title": "Knuspriges Schweinefilet mit Pfirsichchutney",
+  "difficultyLevel": 3,
+  "prepTime": 40,
+  "imageName": "ama_sa_d_h_pic8.jpeg",
+  "servings": 4,
+  "directions": ["Pfirsiche kreuzweise einschneiden, mit kochendem Wasser übergießen.", "Nach einer Minute mit kaltem Wasser abschrecken.", "Pfirsiche schälen, entkernen und in größere Stücke schneiden.", "Mit den Gewürzen, Zitronensaft, Essig, gehackter Zwiebel und Chili in einen Topf geben.", "Bei kleiner Flamme kurz einkochen, dann überkühlen lassen.", "Stärkemehl mit Eiweiß, Eiswasser und Currypulver vermischen.", "Schweinefilets salzen und durch den Teig ziehen.", "In heißem Öl frittieren. Abtropfen lassen und mit dem lauwarmen Chutney anrichten."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 68,
+    "value": 1,
+    "fraction": false,
+    "name": "Sellerie",
+    "unit": "kg"
+  }, {
+    "ingredient_id": 69,
+    "value": 4,
+    "fraction": true,
+    "name": "Paradeiser",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 70,
+    "value": 1,
+    "fraction": true,
+    "name": "Petersilie frisch gehackt",
+    "unit": "El"
+  }, {
+    "ingredient_id": 71,
+    "value": 1,
+    "fraction": true,
+    "name": "Butter",
+    "unit": "El"
+  }, {
+    "ingredient_id": 72,
+    "value": 50,
+    "fraction": false,
+    "name": "Schalotten fein gehackt",
+    "unit": "g"
+  }, {
+    "ingredient_id": 73,
+    "value": 4,
+    "fraction": true,
+    "name": "Sherryessig",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 74,
+    "value": 4,
+    "fraction": true,
+    "name": "Traubenkernöl",
+    "unit": "El"
+  }, {
+    "ingredient_id": 75,
+    "value": 125,
+    "fraction": false,
+    "name": "Weißwein",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 76,
+    "value": 1,
+    "fraction": true,
+    "name": "Zitronensaft",
+    "unit": "Spritzer"
+  }, {
+    "ingredient_id": 77,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 78,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }],
+  "id": 55,
+  "title": "Lauwarmer Sellerie-Paradeisersalat",
+  "difficultyLevel": 2,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_h_pic26.jpeg",
+  "servings": 4,
+  "directions": ["Sellerie mit einem Sparschäler schälen, in Stücke schneiden und in Salzwasser ca. 4 Minuten bissfest garen.", "Die Schalotten in Butter glasig andünsten, mit Weißwein, Essig und Zitronensaft ablöschen.", "Auf die Hälfte reduzieren lassen, mit Öl, Salz und Pfeffer würzen.", "Die geschälten und entkernten\rParadeiser in kleine Würfel schneiden und mit Sellerie und Petersilie unterrühren.", "Wunderbar auch als Beilage zu kurz gebratenem Fleisch."]
+}, {
+  "category": "Hauptspeise",
+  "season": [1, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 79,
+    "value": 400,
+    "fraction": false,
+    "name": "junge, weiße Rüben",
+    "unit": "g"
+  }, {
+    "ingredient_id": 80,
+    "value": 1,
+    "fraction": true,
+    "name": "Thymianzweig",
+    "unit": ""
+  }, {
+    "ingredient_id": 81,
+    "value": 125,
+    "fraction": false,
+    "name": "Wasser",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 82,
+    "value": 50,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "g"
+  }, {
+    "ingredient_id": 83,
+    "value": 1,
+    "fraction": true,
+    "name": "Honig",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 84,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }],
+  "id": 56,
+  "title": "Glacierte weiße Rüben\/Mairüben",
+  "difficultyLevel": 3,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_h_pic27.jpeg",
+  "servings": 2,
+  "directions": ["Die kleinen Rüben schälen und halbmondförmig schneiden.", "Anschließend mit Thymian, Wasser, Butter und Honig dünsten.", "Ist das Wasser verdampft, die Rüben im entstandenen Sud aus Butter und Honig schwenken und salzen.", "Diese zarte Zubereitung von jungen Mairüben harmoniert auch wunderbar mit Lammfilets."]
+}, {
+  "category": "Vorspeise",
+  "season": [4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "ingredients": [{
+    "ingredient_id": 85,
+    "value": 25,
+    "fraction": false,
+    "name": "Paradeiser",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 86,
+    "value": 2,
+    "fraction": false,
+    "name": "Butter",
+    "unit": "dag"
+  }, {
+    "ingredient_id": 87,
+    "value": 1,
+    "fraction": true,
+    "name": "Paradeismark",
+    "unit": "Tl"
+  }, {
+    "ingredient_id": 88,
+    "value": 1,
+    "fraction": true,
+    "name": "Weißweinessig",
+    "unit": "El"
+  }, {
+    "ingredient_id": 89,
+    "value": 2,
+    "fraction": true,
+    "name": "Blattgelatine",
+    "unit": "Stück"
+  }, {
+    "ingredient_id": 90,
+    "value": 125,
+    "fraction": false,
+    "name": "Obers",
+    "unit": "ml"
+  }, {
+    "ingredient_id": 91,
+    "value": 0,
+    "fraction": false,
+    "name": "Salz",
+    "unit": ""
+  }, {
+    "ingredient_id": 92,
+    "value": 0,
+    "fraction": false,
+    "name": "Pfeffer",
+    "unit": ""
+  }, {
+    "ingredient_id": 93,
+    "value": 0,
+    "fraction": false,
+    "name": "Zucker",
+    "unit": ""
+  }],
+  "id": 57,
+  "title": "Paradeiser-Mousse",
+  "difficultyLevel": 3,
+  "prepTime": 35,
+  "imageName": "ama_sa_d_v_pic11.jpeg",
+  "servings": 2,
+  "directions": ["Paradeiser, Paradeismark und Butter ca. 5 min. dünsten, Essig, Zucker und eingeweichte Gelatine dazugeben.", "Anschließend nach Geschmack salzen und pfeffern, aufkochen und passieren.", "Überkühlen lassen und geschlagenes Obers unterheben.", "In Form füllen und kalt stellen.", "Je nach Belieben mit dunklem Blattgemüse servieren und garnieren."]
+}]

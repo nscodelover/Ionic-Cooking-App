@@ -1,0 +1,733 @@
+/* Empty. Add your own CSS if you like */
+.menu_content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px 0;
+}
+
+.sidemenu {
+  margin: 0px 40px;
+}
+
+.sidemenu_logo {
+  display: flex;
+  justify-content: center;
+  margin: 10px auto;
+}
+
+.sidemenu_logo img{
+  width: 100%;
+  height: 100%;
+}
+
+.sidemenu_list {
+  display: flex;
+  flex-direction: row;
+  margin: 35px 20px;
+  text-decoration: none;
+}
+
+.sidemenu_list_title {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  font-size: 25px;
+  color: black;
+}
+
+.sidemenu_list_icon {
+  width: 18%;
+  height: 18%;
+}
+
+.sidemenu_footer {
+  display: flex;
+  justify-content: center;
+  margin: 60px auto;
+}
+
+.sidemenu_footer img {
+  width: 80%;
+  height: 80%;
+}
+
+/*.menu.menu-left{
+	width: calc(100% - 50px) !important;
+}
+.menu-open .menu-content{
+	transform: translate3d(calc(100% - 150px), 0px, 0px) !important;
+}*/
+
+/*  Suche Page Css  */
+
+.platform-ios.platform-cordova:not(.fullscreen) .bar-header:not(.bar-subheader).item--inset .item-input-wrapper {
+  margin-top: 0px !important;
+}
+.divider img {
+  width: 13%;
+}
+.item-input-inset .item-input-wrapper input {
+  padding-left: 0px;
+  height: 40px;
+  background: transparent;
+  line-height: 18px;
+  width: 100%;
+  font-size: 20px;
+  margin-top: 7px;
+}
+
+.placeholder-icon:first-child {
+    /*padding-right: 6px;*/
+    font-size: 30px;
+}
+
+.searchbar {
+  text-align: center;
+  justify-content: center;
+}
+
+.button.button-icon.input-button {
+  color: #bbb;
+  font-size: 30px;
+}
+
+.button.button-icon {
+  -webkit-transition: opacity 0.1s;
+  transition: opacity 0.1s;
+  padding: 0 0px;
+  min-width: initial;
+  border-color: transparent;
+  background: none;
+}
+
+.selected_item_div {
+  width: 100%;
+  margin: 20px auto auto;
+  text-align: center;
+}
+
+.selected_item_container_title {
+  font-size: 20px;
+}
+
+.selected_item_container {
+  text-align: center;
+  justify-content: center;
+}
+
+.recipe_button {
+  width: 50%;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.divider {
+  text-align: center;
+}
+
+.item_list_container {
+  text-align: center;
+}
+
+.ingredients_name {
+  font-size: 12px;
+}
+
+.row img {
+  width: 80%;
+}
+
+.col-20 label {
+  font-size: 11px;
+  margin-top: 10px;
+  width: 90%;
+}
+
+.recipe_button .button.button-balanced {
+  width: 100%;
+  font-size: 14px;
+  margin: 15px 0 0;
+}
+
+.row .col-20 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* End Suche Page CSS */
+/*****************************/
+
+/* For Ingredients Modal View */
+.ingredients_modal_view {
+  background-color: rgba(255,255,255, 0.7);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 63px;
+}
+
+.ingredients_dialog_window {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ingredients_dialog_content {
+  margin-top: -180px;
+}
+
+.selected_ingredient_display {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.selected_ingredient_display .insert_ingredient_none{
+  margin-left: 45px;
+}
+
+.ingredients_dialog_window img {
+  width: 15%;
+  height: 15%;
+}
+
+.ingredients_dialog_window img.insert_ingredient {
+  width: 20%;
+  height: 20%;
+  margin-top: -12px;
+  margin-left: 15px;
+}
+
+.zutat_image_font {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  margin: 18px auto;
+}
+
+.zutat_image_font img {
+  width: 100%;
+  height: 100%;
+}
+
+.ingredients_dialog_window h1 {
+  margin: 0 0 0px;
+  font-family: monospace;
+}
+
+.dialog_content_text {
+  width: 50%;
+}
+
+.dialog_content_text p {
+  font-size: 17px;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+.dialog_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 31px auto;
+}
+
+.ingredients_dialog_button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.dialog_content button {
+  width: 100%;
+  font-size: 14px;
+  margin: 15px 0 0;
+}
+
+/* End Ingredients Dialog View */
+
+/* Suchergebnis Page Css-style */
+.recipe_list_image {
+  height: 183.5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.category_name_div {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /*height: 74px;*/
+}
+.category_name_div img {
+  width: 29%;
+  margin-top: -20px;
+}
+.category_title_div {
+  width: 76%;
+}
+.category_title_div p {
+  margin: 0 0 16px;
+  text-align: center;
+}
+/* End Suchergebnis Page */
+
+.row p {
+  align-items: center;
+  margin: -5px 0 7px;
+}
+
+
+
+/* Favoriten Page Css */
+.favoriten_bg_div img {
+  /*width: 75%;*/
+}
+
+.favoriten_content {
+
+}
+
+.favoriten_img_div {
+  display: flex;
+  justify-content: center;
+}
+
+.favoriten_img_div img {
+  margin-top: 200px;
+}
+
+.favoriten_text_div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.favoriten_text_div {
+  font-size: 27.5px;
+  margin-top: 45px;
+}
+
+/*.favorite_image_div {
+  width: 30%;
+}*/
+/* End Favoriten Page Css */
+
+/* Impressum Page Css*/
+.impressum_div {
+  margin: 30px 20px 30px 20px;
+}
+
+.impressum_div p {
+  margin: 0 0 0px;
+  font-size: 15px;
+}
+
+.address_div {
+  margin-top: 15px;
+}
+
+.edit_div {
+  margin-top: 20px;
+}
+
+.comapany_div {
+  margin-top: 20px;
+}
+
+.app_development_div {
+  margin-top: 30px;
+}
+
+.company_info_div {
+  margin-top: 20px;
+}
+
+.manufacter_div {
+  margin-top: 20px;
+  width: 80%;
+}
+
+.europe_mark_img_div {
+  margin-top: 20px;
+}
+
+.imprssum_image_div {
+  width: 48%;
+}
+
+.imprssum_image_div img {
+  max-width: 100%;
+  max-height: 100%;
+  margin-top: 15px;
+}
+/* End Impressum Page Css*/
+
+/* Kochtipps Page Css */
+.tip_image {
+  width: 100%;
+  height: 240px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('../img/images/tips.png');
+}
+
+.category_image_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.category_image_div img {
+  width: 13%;
+  margin-top: -20px;
+}
+
+.content_div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /*margin: 50px;*/
+}
+/* End Kochtipps Page Css */
+
+/* Recipe_detail CSS-Style */
+.recipe_image img {
+  width: 100%;
+  height: 240px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.favorite_btn {
+  position: absolute;
+  top: 10px;
+  right: -70px;
+}
+.favorite_btn img {
+  width: 35%;
+  height: 35%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.recipe_component_name {
+  width: 100%;
+}
+.recipe_components_amount p{
+  float: right;
+  font-size: 16px;
+  font-weight: bold;
+}
+.recipe_components_name label{
+  font-style: italic;
+  font-size: 16px;
+}
+.recipe_method {
+  width: 85%;
+}
+.recipe_method p {
+  font-size: 18px;
+  text-align: center;
+}
+.divider_div {
+  font-size: 18px;
+  font-weight: bold;
+}
+.recipe_components_amount {
+  width: 50%;
+}
+.recipe_components_name {
+  width: 55%;
+  margin-left: 10px;
+  margin-top: -5px;
+}
+
+.my-nav {
+  list-style-type: disc;
+  padding-left: 10px;
+}
+
+.my-nav li{
+  font-size: 17px;
+  padding: 5px;
+}
+
+.content_div h4 {
+  text-align: center;
+  width: 85%;
+}
+/* End Recipe_detail CSS-Style */
+
+/* Help Screen CSS-Style */
+.helpModalView {
+  margin-top: 65px;
+  background-color: rgba(255,255,255, 0.7);
+}
+.app_title_img_div {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 45px;
+}
+.app_title_img_div img {
+  width: 80%;
+}
+.help_content {
+  /*width: 90%;*/
+  margin-top: 20px;
+}
+.second_phase {
+  margin-top: 20px;
+}
+
+.help_content p {
+  text-align: center;
+  font-size: 17.5px;
+  margin: 0 0 0px;
+}
+
+.help_img_div {
+  margin-top: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.help_img_div img {
+  width: 60%;
+}
+
+/*  No_recipe page CSS-Style */
+.recipe_none_img_div {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+.recipe_none_img_div img {
+  width: 30%;
+  height: 30%;
+}
+.none_recipe_text_div {
+  font-size: 27.5px;
+  margin-top: 45px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+/*  End No_recipe page CSS-Style */
+
+/* None_Favoriten Page CSS-Style */
+.none_favorite {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*justify-content: center;*/
+}
+
+.none_favorite img{
+  margin-top: 157px;
+}
+
+.favoriten_title {
+  margin-top: 40px;
+}
+
+.favoriten_title p {
+  text-align: center;
+  font-size: 28.5px;
+  margin: 15px auto;
+}
+/*  End None_Favoriten CSS-Style  */
+
+.main_background {
+  background-image: url('../img/AMA_UI/main_bg.png');
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 320px) {
+  /* help_screen */
+  .second_phase {
+    margin-top: 10px;
+  }
+
+  .help_content p {
+    font-size: 15.5px;
+  }
+
+  .help_img_div img {
+    width: 50%;
+  }
+
+/* Ingredients Dialog Page CSS */
+  .selected_ingredient_display {
+    margin-top: 41px;
+  }
+
+  .zutat_image_font {
+    width: 73%;
+    /*margin-top: 18px auto;*/
+  }
+
+  .ingredients_dialog_content {
+    margin-top: -210px;
+  }
+
+  .ingredients_dialog_button {
+    margin-top: 0px;
+  }
+
+  .dialog_content_text p {
+    font-size: 14px;
+  }
+
+  .dialog_content {
+     margin: 0px auto;
+  }
+}
+
+
+@media (max-width: 414px){
+
+  .phone_screen {
+    display: block;
+  }
+  .desktop_screen {
+    display: none;
+  }
+
+  .ingredients_dialog_content {
+    margin-top: -280px;
+  }
+}
+
+@media (min-width: 680px ){
+
+  .phone_screen {
+    display: none;
+  }
+  .desktop_screen {
+    display: block;
+    padding: 5px 10px;
+    margin-left: -5px;
+  }
+
+  .active .modal-backdrop-bg {
+    opacity: 0;
+  }
+}
+
+@media (min-width: 767px) {
+
+  /*Fix the sidemenu_bar*/
+  /*.ion-content {
+    -webkit-transform: translate3d(270px, 0px, 0px) !important;
+    width: calc(100% - 270px) !important;
+  }*/
+
+  .sidemenu_bar {
+    margin-top: 64px;
+  }
+  .menu {
+    z-index: 2 !important;
+    box-shadow: -1px 0 2px rgba(0,0,0,.2),1px 0 2px rgba(0,0,0,.2);
+   }
+  .bar-header button.ion-navicon {
+    display: none;
+   }
+  .menu-content {
+    -webkit-transform: translate3d(276px, 0px, 0px) !important;
+    width: calc(100% - 270px) !important;
+  }
+
+
+  /*.row img {
+    width: 100%;
+  }*/
+  /*.helpModalView {
+    width: 73% !important;
+    margin-left: 276px;
+  }*/
+  /*.helpModalView ion-content {
+    -webkit-transform: translate3d(276px, 0px, 0px) !important;
+    width: calc(100% - 270px) !important;
+  }*/
+}
+
+/*.bar-header button.ion-navicon {
+  display: none;
+ }*/
+
+@media (min-width: 680px) and (max-width: 1023px) {
+
+ .recipe_item_list_container {
+   display: flex;
+   justify-content: center;
+ }
+}
+
+@media (min-width: 1024px) {
+
+  .helpModalView {
+    display: flex;
+    justify-content: center;
+  }
+
+  .desktop_screen {
+    padding: 10px 80px
+  }
+
+  .app_title_img_div img {
+    width: 80%;
+  }
+
+  .help_img_div img {
+    width: 50%;
+  }
+
+  .help_content p {
+    text-align: center;
+    font-size: 27px;
+    margin: 10px 0 0px
+  }
+
+  .help_screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ingredients_dialog_content {
+    margin-top: -180px;
+  }
+
+  .recipe_button {
+    width: 25%;
+  }
+
+  .recipe_button .button.button-balanced {
+    width: 100%;
+  }
+
+  /*.recipe_button .button.button-balanced {
+    width: 50%;
+    font-size: 14px;
+    margin: 15px 0 0;
+  }*/
+}
+/* End iPad/Tablet */

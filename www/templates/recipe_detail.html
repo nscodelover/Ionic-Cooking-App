@@ -1,0 +1,56 @@
+<ion-view view-title="Rezept">
+
+  <ion-content ng-init="statusFavorite()">
+    <div class="tip_image" ng-style="{'background-image': 'url(' + selectedRecipe.src + ')'}"></div>
+    <div class="recipe_image">
+      <div class="favorite_btn" ng-click="onRegisterFavorite()">
+        <div ng-show="favoriteFlag">
+          <img src="img/AMA_UI/fav_red_heart.png">
+        </div>
+      </div>
+
+      <div class="favorite_btn">
+        <div ng-hide="favoriteFlag">
+          <img ng-src="img/AMA_UI/fav_white_heart.png" ng-click="onRegisterFavorite()">
+        </div>
+      </div>
+    </div>
+
+    <div class="tipps_page_div">
+      <div class="category_image_div">
+        <img ng-src="{{selectedRecipe.categoryImage}}">
+      </div>
+
+      <div class="content_div">
+        <h4>{{selectedRecipe.title}}</h4>
+        <div class="divider_div">
+          <p>.........</p>
+        </div>
+
+        <div class="recipe_component_name">
+          <div class="row" ng-repeat="ingredient in ingredients">
+            <div class="recipe_components_amount">
+              <p>{{ingredient.value}} <span>{{ingredient.unit}}</span></p>
+            </div>
+
+            <div class="recipe_components_name">
+              <label>{{ingredient.name}}</label>
+            </div>
+          </div>
+        </div>
+
+        <div class="divider_div">
+          <p>.........</p>
+        </div>
+
+        <div class="recipe_method">
+          <section>
+            <ul class="my-nav" ng-repeat="direction in directions">
+              <li>{{direction}}</li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
